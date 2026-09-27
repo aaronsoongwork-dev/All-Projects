@@ -5,7 +5,7 @@ A portfolio of my hackathon, datathon, and academic projects.
 ## Projects
 
 - 🚢 **[ShipCheck](./shipcheck)** — AI shipping document verification platform (Averis x Monash Datathon 2025)
-  >> Original repos: [frontend](https://github.com/Team-Fortress-3/email-app-UI) · [backend](https://github.com/Team-Fortress-3/email-app-backend) · [extract-compare](https://github.com/Team-Fortress-3/email-extract-compare)
+  >> Original repos: [frontend](https://github.com/Team-Fortress-3/email-app-UI) · [backend](https://github.com/Team-Fortress-3/email-app-backend) · [extract-compare](https://github.com/Team-Fortress-3/email-extract-compare)<br>
   >> [Live site](https://shipcheck.lukewon.tech)
 
 - 💪 **[JadiFit](./jadifit)** — Flutter fitness app (GDGOC Kitahack 2026)
