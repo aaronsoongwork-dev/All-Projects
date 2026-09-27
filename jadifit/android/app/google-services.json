@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "429634223536",
+    "project_id": "jadifit-8477a",
+    "storage_bucket": "jadifit-8477a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429634223536:android:41b8b4f080c99acaa6ea75",
+        "android_client_info": {
+          "package_name": "com.example.google_hackathon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUggLeBWL1Mn-xdUuBx_WEHpAd8YdlH_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

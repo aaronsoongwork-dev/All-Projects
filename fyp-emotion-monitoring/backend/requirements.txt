@@ -1,0 +1,27 @@
+# Web layer
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+python-multipart==0.0.20      # required by FastAPI for UploadFile
+python-dotenv==1.0.1
+
+# Auth + persistence
+pyjwt==2.10.1
+cryptography==44.0.0
+supabase==2.11.0
+
+# Speech-to-text (CTranslate2-optimised Whisper — 4x faster, same accuracy)
+faster-whisper>=1.0.0
+
+# Audio handling
+pydub==0.25.1                 # needs ffmpeg on the host
+torchaudio==2.5.1
+soundfile==0.12.1
+
+# Model runtime
+torch==2.5.1
+transformers==4.47.1
+sentencepiece==0.2.0
+numpy==1.26.4
+funasr>=1.0.0
+librosa>=0.10.0
+modelscope>=1.10.0

@@ -1,0 +1,332 @@
+/* Wireframe/Low-Fidelity Prototype Styling */
+
+:root {
+  /* Wireframe color palette - grayscale only */
+  --wireframe-white: #ffffff;
+  --wireframe-lightest: #f5f5f5;
+  --wireframe-lighter: #e0e0e0;
+  --wireframe-light: #cccccc;
+  --wireframe-medium: #999999;
+  --wireframe-dark: #666666;
+  --wireframe-darker: #333333;
+  --wireframe-black: #000000;
+
+  /* Override theme colors with wireframe palette */
+  --background: var(--wireframe-white);
+  --foreground: var(--wireframe-darker);
+  --card: var(--wireframe-white);
+  --card-foreground: var(--wireframe-darker);
+  --popover: var(--wireframe-white);
+  --popover-foreground: var(--wireframe-darker);
+  --primary: var(--wireframe-darker);
+  --primary-foreground: var(--wireframe-white);
+  --secondary: var(--wireframe-lighter);
+  --secondary-foreground: var(--wireframe-darker);
+  --muted: var(--wireframe-lightest);
+  --muted-foreground: var(--wireframe-medium);
+  --accent: var(--wireframe-lighter);
+  --accent-foreground: var(--wireframe-darker);
+  --destructive: var(--wireframe-dark);
+  --destructive-foreground: var(--wireframe-white);
+  --border: var(--wireframe-light);
+  --input: transparent;
+  --input-background: var(--wireframe-lightest);
+  --switch-background: var(--wireframe-light);
+  --ring: var(--wireframe-medium);
+
+  /* Charts in grayscale */
+  --chart-1: var(--wireframe-darker);
+  --chart-2: var(--wireframe-dark);
+  --chart-3: var(--wireframe-medium);
+  --chart-4: var(--wireframe-light);
+  --chart-5: var(--wireframe-lighter);
+
+  /* Sidebar */
+  --sidebar: var(--wireframe-lightest);
+  --sidebar-foreground: var(--wireframe-darker);
+  --sidebar-primary: var(--wireframe-darker);
+  --sidebar-primary-foreground: var(--wireframe-white);
+  --sidebar-accent: var(--wireframe-lighter);
+  --sidebar-accent-foreground: var(--wireframe-darker);
+  --sidebar-border: var(--wireframe-light);
+  --sidebar-ring: var(--wireframe-medium);
+
+  /* Wireframe-specific properties */
+  --wireframe-border-width: 2px;
+  --wireframe-border-style: dashed;
+}
+
+/* Apply wireframe aesthetics globally */
+.wireframe-mode {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+}
+
+/* Borders with dashed/sketchy style */
+.wireframe-mode * {
+  border-style: solid !important;
+}
+
+/* Make all borders more visible */
+.wireframe-mode [class*="border"],
+.wireframe-mode button,
+.wireframe-mode input,
+.wireframe-mode textarea,
+.wireframe-mode select {
+  border-width: 2px !important;
+  border-color: var(--wireframe-light) !important;
+}
+
+/* Card elements with clear borders */
+.wireframe-mode [class*="card"],
+.wireframe-mode [class*="Card"] {
+  border: 2px solid var(--wireframe-light) !important;
+  background: var(--wireframe-white) !important;
+  box-shadow: none !important;
+}
+
+/* Remove all gradients and fancy backgrounds */
+.wireframe-mode * {
+  background-image: none !important;
+}
+
+/* Placeholder style for images */
+.wireframe-mode img:not([src*="data:image"]) {
+  background: repeating-linear-gradient(
+    45deg,
+    var(--wireframe-lightest),
+    var(--wireframe-lightest) 10px,
+    var(--wireframe-lighter) 10px,
+    var(--wireframe-lighter) 20px
+  ) !important;
+  border: 2px dashed var(--wireframe-light) !important;
+  opacity: 0.6;
+}
+
+/* Chart placeholder styling */
+.wireframe-mode [class*="recharts"] rect,
+.wireframe-mode [class*="recharts"] path,
+.wireframe-mode [class*="recharts"] circle {
+  opacity: 0.7 !important;
+}
+
+/* Make chart grid lines more prominent */
+.wireframe-mode [class*="recharts"] .recharts-cartesian-grid line {
+  stroke: var(--wireframe-light) !important;
+  stroke-width: 1px !important;
+}
+
+/* Chart text */
+.wireframe-mode [class*="recharts"] text {
+  fill: var(--wireframe-dark) !important;
+  font-weight: 600 !important;
+}
+
+/* Button wireframe style */
+.wireframe-mode button {
+  background: var(--wireframe-lighter) !important;
+  color: var(--wireframe-darker) !important;
+  border: 2px solid var(--wireframe-dark) !important;
+  box-shadow: none !important;
+  font-weight: 600 !important;
+}
+
+.wireframe-mode button:hover {
+  background: var(--wireframe-light) !important;
+}
+
+/* Primary buttons */
+.wireframe-mode button[class*="primary"],
+.wireframe-mode button[class*="Primary"] {
+  background: var(--wireframe-darker) !important;
+  color: var(--wireframe-white) !important;
+  border: 2px solid var(--wireframe-black) !important;
+}
+
+/* Input fields with clear borders */
+.wireframe-mode input,
+.wireframe-mode textarea,
+.wireframe-mode select {
+  background: var(--wireframe-lightest) !important;
+  border: 2px solid var(--wireframe-light) !important;
+  color: var(--wireframe-darker) !important;
+  box-shadow: none !important;
+}
+
+.wireframe-mode input:focus,
+.wireframe-mode textarea:focus,
+.wireframe-mode select:focus {
+  border-color: var(--wireframe-darker) !important;
+  outline: 2px solid var(--wireframe-medium) !important;
+  outline-offset: 2px;
+}
+
+/* Remove smooth shadows */
+.wireframe-mode * {
+  box-shadow: none !important;
+  text-shadow: none !important;
+}
+
+/* Wireframe annotations */
+.wireframe-annotation {
+  position: relative;
+}
+
+.wireframe-annotation::after {
+  content: attr(data-annotation);
+  position: absolute;
+  top: -20px;
+  left: 0;
+  font-size: 11px;
+  color: var(--wireframe-medium);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  pointer-events: none;
+}
+
+/* Add subtle grid background to entire app */
+.wireframe-mode {
+  background-image:
+    linear-gradient(var(--wireframe-lighter) 1px, transparent 1px),
+    linear-gradient(90deg, var(--wireframe-lighter) 1px, transparent 1px);
+  background-size: 20px 20px;
+  background-position: -1px -1px;
+}
+
+/* Placeholder text style */
+.wireframe-mode ::placeholder {
+  color: var(--wireframe-medium) !important;
+  opacity: 1 !important;
+}
+
+/* Avatar placeholders */
+.wireframe-mode [class*="avatar"],
+.wireframe-mode [class*="Avatar"] {
+  background: var(--wireframe-lighter) !important;
+  border: 2px solid var(--wireframe-light) !important;
+}
+
+/* Progress bars */
+.wireframe-mode [class*="progress"],
+.wireframe-mode [class*="Progress"] {
+  background: var(--wireframe-lighter) !important;
+  border: 2px solid var(--wireframe-light) !important;
+}
+
+/* Badges */
+.wireframe-mode [class*="badge"],
+.wireframe-mode [class*="Badge"] {
+  background: var(--wireframe-lighter) !important;
+  color: var(--wireframe-darker) !important;
+  border: 2px solid var(--wireframe-light) !important;
+}
+
+/* Tables */
+.wireframe-mode table {
+  border: 2px solid var(--wireframe-light) !important;
+}
+
+.wireframe-mode th,
+.wireframe-mode td {
+  border: 1px solid var(--wireframe-light) !important;
+  background: var(--wireframe-white) !important;
+}
+
+.wireframe-mode th {
+  background: var(--wireframe-lightest) !important;
+  font-weight: 700 !important;
+}
+
+/* Tabs */
+.wireframe-mode [role="tab"] {
+  border: 2px solid var(--wireframe-light) !important;
+  background: var(--wireframe-lightest) !important;
+}
+
+.wireframe-mode [role="tab"][data-state="active"],
+.wireframe-mode [role="tab"][aria-selected="true"] {
+  background: var(--wireframe-white) !important;
+  border-bottom-color: var(--wireframe-white) !important;
+  font-weight: 700 !important;
+}
+
+/* Sidebar styling */
+.wireframe-mode [data-sidebar] {
+  border-right: 2px solid var(--wireframe-light) !important;
+  background: var(--wireframe-lightest) !important;
+}
+
+/* Icons - reduce opacity for sketch feel */
+.wireframe-mode svg {
+  opacity: 0.7;
+}
+
+/* Remove transitions for static feel */
+.wireframe-mode * {
+  transition: none !important;
+  animation: none !important;
+}
+
+/* Add cursor default to emphasize non-interactive prototype feel */
+.wireframe-mode {
+  cursor: default !important;
+}
+
+/* Make hover states less pronounced */
+.wireframe-mode *:hover {
+  cursor: default !important;
+}
+
+/* Dark mode wireframe */
+.dark.wireframe-mode {
+  --background: var(--wireframe-darker);
+  --foreground: var(--wireframe-lightest);
+  --card: var(--wireframe-dark);
+  --card-foreground: var(--wireframe-lightest);
+  --border: var(--wireframe-medium);
+  --input-background: var(--wireframe-dark);
+}
+
+.dark.wireframe-mode [class*="card"],
+.dark.wireframe-mode [class*="Card"] {
+  background: var(--wireframe-dark) !important;
+  border-color: var(--wireframe-medium) !important;
+}
+
+.dark.wireframe-mode button {
+  background: var(--wireframe-dark) !important;
+  color: var(--wireframe-lightest) !important;
+  border-color: var(--wireframe-medium) !important;
+}
+
+.dark.wireframe-mode input,
+.dark.wireframe-mode textarea {
+  background: var(--wireframe-darker) !important;
+  border-color: var(--wireframe-medium) !important;
+  color: var(--wireframe-lightest) !important;
+}
+
+/* Sketch-style hatching for disabled/placeholder areas */
+.wireframe-placeholder {
+  background: repeating-linear-gradient(
+    45deg,
+    var(--wireframe-lightest),
+    var(--wireframe-lightest) 10px,
+    var(--wireframe-lighter) 10px,
+    var(--wireframe-lighter) 20px
+  ) !important;
+  border: 2px dashed var(--wireframe-light) !important;
+  position: relative;
+}
+
+.wireframe-placeholder::before {
+  content: "PLACEHOLDER";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: var(--wireframe-medium);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
