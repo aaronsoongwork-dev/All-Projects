@@ -1,0 +1,27 @@
+# Secrets
+api key.txt
+*.env
+.env
+
+# Local dev database (auto-recreated on startup, per-developer)
+shipcheck.db
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Dataset
+inbox/
+attachments/
+
+# Generated output
+submission.json
+results.xlsx
+*.log
+.sent_emails.json
+
+# OS
+.DS_Store
+start.sh
