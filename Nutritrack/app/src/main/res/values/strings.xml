@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Nutritrack</string>
+    <string name="title_activity_log_in_page">LogInPage</string>
+    <string name="title_activity_questionaire">Questionaire</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="title_activity_insights">Insights</string>
+    <string name="title_activity_nutri_coach">NutriCoach</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="app_title">Clinician Dashboard</string> <string name="prompt_placeholder">Enter your prompt here...</string>
+    <string name="results_placeholder">Insights will appear here...</string>
+    <string name="label_prompt">AI Prompt</string>    <string name="action_go">Go</string>
+</resources>
