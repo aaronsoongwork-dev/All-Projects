@@ -16,3 +16,7 @@ A portfolio of my hackathon, datathon, and academic projects.
 
 - 🎭 **[Emotion Monitoring FYP](./fyp-emotion-monitoring)** — Real-time multimodal emotion detection
   >> Original repo: [freshflick/emotion_recognition_webapp](https://github.com/freshflick/emotion_recognition_webapp)
+
+- 🥗 Nutritrack — Android nutrition tracking app with Food Quality Scores and Gemini-powered tips, built with Kotlin and Jetpack Compose (Monash University)
+
+- 🎥 Movement Tracker — Staff identification and tracking in overhead fisheye video using motion-based computer vision in Python
