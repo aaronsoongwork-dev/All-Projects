@@ -54,7 +54,3 @@ bin/               sample data generator
 - No user accounts: all datasets are visible to anyone who can reach the app. Add login (see my *Task Manager* project) before deploying publicly.
 - Single-column group-by; could add multi-series charts and date-range filters.
 - Streamed import for files larger than 50k rows; outlier detection and a simple correlation view would suit a data-science angle.
-
-## Resume bullet
-
-> Built a PHP/SQLite analytics dashboard that ingests, cleans and type-infers arbitrary CSV files (delimiter/encoding detection, deduplication) and serves SQL-aggregated insights through a JSON API to an interactive Chart.js frontend; hardened against SQL injection, CSRF, XSS and CSV formula injection.
