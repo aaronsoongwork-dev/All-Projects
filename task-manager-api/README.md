@@ -93,6 +93,3 @@ Business rules live in the services, not in the HTTP layer, which is why the tes
 - No password reset or email verification yet (needs an email service).
 - Drag-and-drop uses the HTML5 API (mouse). The Edit dialog is the touch/keyboard path.
 
-## Resume bullet
-
-> Designed and built a role-based Kanban task manager with a framework-free PHP REST API (sessions, CSRF protection, login throttling, server-side authorization) and a vanilla-JS drag-and-drop frontend; covered business rules with a PHPUnit suite and GitHub Actions CI.
