@@ -1,0 +1,1217 @@
+"Order ID","Order Date",Region,Category,Product,Units,"Unit Price",Discount,Revenue
+10001,2025-02-22,East,Electronics,Keyboard,3,79.5,0.15,202.73
+10002,2025-07-30,Central,Stationery,Planner,3,18,0.1,48.6
+10003,2025-10-23,Central,Software,Antivirus,4,39,0,156
+10004,2025-11-19,South,Furniture,Lamp,5,34.5,0.15,146.63
+10005,2025-05-29,South,Furniture,Chair,4,189,0,756
+10006,2025-09-13,North,Furniture,Lamp,5,34.5,0.15,146.63
+10007,2025-05-17,East,Stationery,Planner,7,18,0,126
+10008,2025-06-29,East,Software,"Office Suite",7,99,0.05,658.35
+10009,2025-12-24,North,Furniture,Chair,7,189,0.1,1190.7
+10010,2025-03-27,Central,Stationery,Notebook,3,4.5,0,13.5
+10011,2025-02-15,North,Stationery,Planner,4,18,0.1,64.8
+10012,2025-09-09,South,Furniture,Desk,1,249,0,249
+10013,2025-02-03,Central,Software,"Office Suite",7,99,0.15,589.05
+10014,2025-12-26,South,Electronics,Monitor,8,219,0,1752
+10015,2025-05-14,North,Furniture,Chair,4,189,0.05,718.2
+10016,2025-07-14,South,Furniture,Chair,4,189,0.15,642.6
+10017,2025-07-24,North,Furniture,Desk,4,249,0,996
+10018,2025-02-01,North,Software,"Office Suite",7,99,0.05,658.35
+10019,2025-04-05,South,Furniture,Lamp,4,34.5,0,138
+10020,2025-08-23,South,Electronics,Monitor,5,219,0.15,930.75
+10021,2025-06-21,North,Software,"Office Suite",1,99,0.05,94.05
+10022,2025-06-21,East,Electronics,Headphones,5,59.9,0.1,269.55
+10023,2025-09-01,South,Electronics,Keyboard,1,79.5,0.15,67.58
+10024,2025-02-10,North,Software,"Office Suite",7,99,0,693
+10025,2025-04-04,West,Software,Antivirus,3,$39.00,0,117
+10026,2025-07-03,East,Furniture,Desk,2,249,0,498
+10027,2025-04-29,South,Electronics,Monitor,4,219,0,876
+10028,2025-01-19,Central,Stationery,Notebook,6,4.5,0,27
+10029,2025-10-02,West,Software,"Office Suite",6,99,0,594
+10030,2025-04-07,West,Stationery,Planner,7,18,0.05,119.7
+10031,2025-07-05,North,Electronics,Webcam,7,45,0.1,283.5
+10032,2025-07-29,East,Stationery,Notebook,7,4.5,0.1,28.35
+10033,2025-02-03,West,Software,Antivirus,3,39,0.1,105.3
+10034,2025-06-09,Central,Electronics,Monitor,5,219,0.05,1040.25
+10035,2025-02-24,Central,Electronics,Keyboard,7,79.5,0,556.5
+10036,2025-04-13,Central,Electronics,Monitor,5,219,0.15,930.75
+10037,2025-02-10,West,Stationery,Notebook,4,4.5,0.15,15.3
+10038,2025-01-27,Central,Furniture,Lamp,5,34.5,0.05,163.88
+10039,2025-09-04,East,Software,"Office Suite",4,99,0,396
+10040,2025-08-06,North,Software,"Office Suite",7,99,0.05,658.35
+10041,2025-09-14,East,Furniture,Chair,1,189,0,189
+10042,2025-07-03,West,Electronics,Monitor,5,219,0.1,985.5
+10043,2025-05-04,Central,Furniture,Desk,3,249,0,747
+10044,2025-09-01,Central,Electronics,Keyboard,2,79.5,0.15,135.15
+10045,2025-03-24,North,Stationery,Planner,8,18,0.05,136.8
+10046,2025-01-23,East,Software,Antivirus,6,39,0,234
+10047,2025-03-20,East,Software,"Office Suite",7,99,0.05,658.35
+10048,2025-01-03,East,Electronics,Headphones,8,59.9,0.1,431.28
+10049,2025-03-15,Central,Furniture,Lamp,4,34.5,0.15,117.3
+10050,2025-02-15,Central,Software,Antivirus,1,$39.00,0,39
+10051,2025-01-18,South,Electronics,Monitor,2,219,0.15,372.3
+10052,2025-08-07,East,Stationery,Planner,7,18,0,126
+10053,2025-06-25,West,Electronics,Keyboard,6,79.5,0.05,453.15
+10054,2025-05-14,South,Furniture,Chair,6,189,0,1134
+10055,2025-06-07,Central,Software,Antivirus,1,39,0.05,37.05
+10056,2025-03-08,North,Software,Antivirus,3,39,0.15,99.45
+10057,2025-06-08,Central,Software,Antivirus,2,39,0.1,70.2
+10058,2025-02-22,Central,Software,"Office Suite",7,99,0.15,589.05
+10059,2025-11-25,South,Software,"Office Suite",10,99,0.15,841.5
+10060,2025-07-11,Central,Software,Antivirus,1,39,0.05,37.05
+10061,2025-12-21,East,Furniture,Desk,6,249,0.1,1344.6
+10062,2025-06-29,East,Software,Antivirus,4,39,0,156
+10063,2025-09-17,Central,Electronics,Monitor,6,219,0,1314
+10064,2025-10-23,Central,Software,Antivirus,7,39,0,273
+10065,2025-08-05,East,Stationery,Notebook,8,4.5,0.1,32.4
+10066,2025-10-07,South,Furniture,Lamp,1,34.5,0,34.5
+10067,2025-10-08,West,Electronics,Monitor,4,219,0.05,832.2
+10068,2025-04-19,Central,Furniture,Lamp,8,34.5,0.05,262.2
+10069,2025-11-24,North,Electronics,Headphones,3,59.9,0.05,170.72
+10070,2025-12-28,Central,Furniture,Chair,8,189,0,1512
+10071,2025-04-28,Central,Software,Antivirus,6,39,0,234
+10072,2025-10-27,Central,Software,"Office Suite",8,99,0,792
+10073,2025-04-29,East,Software,Antivirus,8,39,0.15,265.2
+10074,2025-06-04,South,Furniture,Chair,6,189,0.15,963.9
+10075,2025-02-17,North,Furniture,Lamp,3,$34.50,0.05,98.33
+10076,2025-12-04,North,Stationery,Planner,5,18,0.05,85.5
+10077,2025-06-18,West,Software,Antivirus,5,39,0.15,165.75
+10078,2025-05-31,East,Stationery,"Pen Set",3,12,0.05,34.2
+10079,2025-04-17,Central,Electronics,Monitor,4,219,0,876
+10080,2025-10-03,Central,Electronics,Webcam,3,45,0,135
+10081,2025-06-20,West,Software,Antivirus,1,39,0.15,33.15
+10082,2025-10-29,West,Stationery,Planner,1,18,0.05,17.1
+10083,2025-02-02,South,Electronics,Monitor,7,219,0.1,1379.7
+10084,2025-12-15,South,Software,"Office Suite",3,99,0.05,282.15
+10085,2025-06-19,Central,Stationery,"Pen Set",6,12,0.05,68.4
+10086,2025-08-01,North,Stationery,Planner,7,18,0.15,107.1
+10087,2025-04-05,East,Furniture,Lamp,2,34.5,0,69
+10088,2025-01-10,West,Electronics,Keyboard,6,79.5,0,477
+10089,2025-04-14,West,Furniture,Chair,2,189,0,378
+10090,2025-09-16,South,Software,Antivirus,4,39,0.15,132.6
+10091,2025-06-06,West,Software,Antivirus,4,39,0,156
+10092,2025-02-13,Central,Furniture,Lamp,6,34.5,0.05,196.65
+10093,2025-11-18,South,Stationery,"Pen Set",5,12,0.15,51
+10094,2025-11-26,East,Furniture,Chair,3,189,0.05,538.65
+10095,2025-11-12,West,Furniture,Desk,2,249,0.05,473.1
+10096,2025-06-12,East,Furniture,Chair,6,189,0.1,1020.6
+10097,2025-05-19,West,Electronics,Monitor,5,219,0.15,930.75
+10098,2025-04-01,North,Electronics,Keyboard,4,79.5,0.05,302.1
+10099,2025-07-28,West,Software,"Office Suite",7,99,0.1,623.7
+10100,2025-03-05,South,Software,"Office Suite",5,$99.00,0.15,420.75
+10101,2025-08-09,South,Furniture,Lamp,1,34.5,0.15,29.33
+10102,2025-04-09,Central,Software,"Office Suite",7,99,0,693
+10103,2025-01-18,East,Electronics,Webcam,7,45,0,315
+10104,2025-11-22,North,Electronics,Headphones,2,59.9,0,119.8
+10105,2025-08-10,East,Software,"Office Suite",6,99,0.15,504.9
+10106,2025-05-11,Central,Electronics,Headphones,1,59.9,0.15,50.92
+10107,2025-04-13,North,Software,Antivirus,5,39,0,195
+10108,2025-04-10,South,Stationery,Notebook,2,4.5,0.05,8.55
+10109,2025-01-29,North,Furniture,Chair,5,189,0,945
+10110,2025-10-09,Central,Stationery,Planner,6,18,0.05,102.6
+10111,2025-05-29,East,Electronics,Monitor,8,219,0,1752
+10112,2025-11-28,North,Electronics,Keyboard,5,79.5,0,397.5
+10113,2025-12-30,West,Stationery,Planner,2,18,0.05,34.2
+10114,2025-12-29,West,Software,Antivirus,4,39,0.05,148.2
+10115,2025-05-01,Central,Electronics,Monitor,5,219,0,1095
+10116,2025-11-06,West,Software,"Office Suite",7,99,0.05,658.35
+10117,2025-02-02,North,Software,Antivirus,4,39,0.05,148.2
+10118,2025-09-11,East,Stationery,"Pen Set",1,12,0,12
+10119,2025-11-27,West,Stationery,Notebook,4,4.5,0.1,16.2
+10120,2025-09-09,East,Furniture,Lamp,4,34.5,0,138
+10121,2025-10-12,Central,Stationery,Planner,2,18,0.1,32.4
+10122,2025-07-01,Central,Stationery,Planner,1,18,0,18
+10123,2025-12-22,Central,Furniture,Lamp,3,34.5,0.15,87.98
+10124,2025-04-28,East,Stationery,"Pen Set",2,12,0,24
+10125,2025-07-21,North,Stationery,Notebook,8,$4.50,0,36
+10126,2025-01-12,West,Electronics,Headphones,4,59.9,0,239.6
+10127,2025-10-16,North,Software,"Office Suite",3,99,0,297
+10128,2025-10-03,Central,Software,"Office Suite",1,99,0.1,89.1
+10129,2025-01-03,North,Stationery,Notebook,8,4.5,0,36
+10130,2025-04-13,East,Stationery,"Pen Set",7,12,0.1,75.6
+10131,2025-10-30,North,Furniture,Desk,1,249,0,249
+10132,2025-03-29,South,Electronics,Webcam,5,45,0,225
+10133,2025-07-21,South,Software,"Office Suite",5,99,0,495
+10134,2025-12-16,South,Electronics,Keyboard,6,79.5,0.15,405.45
+10135,2025-05-14,Central,Stationery,Notebook,7,4.5,0.15,26.78
+10136,2025-08-12,West,Stationery,Notebook,1,4.5,0,4.5
+10137,2025-05-20,West,Software,Antivirus,7,39,0.15,232.05
+10138,2025-05-06,West,Electronics,Headphones,2,59.9,0,119.8
+10139,2025-10-19,Central,Stationery,"Pen Set",5,12,0.1,54
+10140,2025-01-14,South,Stationery,"Pen Set",2,12,0.1,21.6
+10141,2025-11-29,South,Furniture,Lamp,4,34.5,0,138
+10142,2025-05-27,Central,Furniture,Desk,8,249,0,1992
+10143,2025-09-18,North,Stationery,Notebook,2,4.5,0,9
+10144,2025-05-23,Central,Furniture,Lamp,8,34.5,0,276
+10145,2025-01-25,East,Furniture,Chair,1,189,0.1,170.1
+10146,2025-05-09,West,Electronics,Monitor,4,219,0.05,832.2
+10147,2025-01-20,East,Stationery,Notebook,4,4.5,0.05,17.1
+10148,2025-06-13,Central,Furniture,Lamp,3,34.5,0,103.5
+10149,2025-07-12,South,Electronics,Headphones,2,59.9,0.05,113.81
+10150,2025-06-01,Central,Software,"Office Suite",8,$99.00,0.1,712.8
+10150,2025-06-01,Central,Software,"Office Suite",8,$99.00,0.1,712.8
+
+10151,2025-10-25,North,Stationery,"Pen Set",3,12,0.1,32.4
+10152,2025-08-22,North,Electronics,Keyboard,4,79.5,0,318
+10153,2025-12-19,North,Electronics,Webcam,6,45,0.05,256.5
+10154,2025-01-22,East,Software,Antivirus,5,39,0.1,175.5
+10155,2025-02-03,West,Furniture,Lamp,3,34.5,0.05,98.33
+10156,2025-08-27,West,Stationery,"Pen Set",4,12,0,48
+10157,2025-12-27,West,Electronics,Headphones,8,59.9,0,479.2
+10158,2025-04-14,West,Furniture,Chair,3,189,0,567
+10159,2025-11-23,East,Stationery,Planner,5,18,0,90
+10160,2025-12-03,West,Software,"Office Suite",7,99,0,693
+10161,2025-03-14,North,Software,"Office Suite",8,99,0,792
+10162,2025-09-22,South,Software,"Office Suite",5,99,0,495
+10163,2025-09-19,South,Stationery,Planner,7,18,0,126
+10164,2025-08-11,South,Electronics,Monitor,5,219,0.05,1040.25
+10165,2025-09-26,North,Electronics,Webcam,3,45,0.1,121.5
+10166,2025-08-17,Central,Stationery,"Pen Set",5,12,0,60
+10167,2025-06-25,South,Furniture,Desk,6,249,0,1494
+10168,2025-02-23,South,Electronics,Keyboard,8,79.5,0.1,572.4
+10169,2025-04-04,East,Furniture,Chair,7,189,0,1323
+10170,2025-02-16,West,Furniture,Lamp,1,34.5,0.15,29.33
+10171,2025-04-26,East,Electronics,Headphones,1,59.9,0,59.9
+10172,2025-02-22,Central,Stationery,Planner,5,18,0.05,85.5
+10173,2025-08-03,Central,Software,Antivirus,5,39,0,195
+10174,2025-12-23,East,Stationery,Notebook,7,4.5,0,31.5
+10175,2025-02-12,North,Furniture,Lamp,1,$34.50,0,34.5
+10176,2025-01-14,Central,Furniture,Desk,3,249,0,747
+10177,2025-05-12,South,Furniture,Lamp,1,34.5,0.15,29.33
+10178,2025-11-29,North,Software,Antivirus,9,39,0,351
+10179,2025-07-23,North,Furniture,Chair,3,189,0,567
+10180,2025-02-14,Central,Electronics,Webcam,4,45,0.1,162
+10181,2025-07-19,East,Stationery,"Pen Set",1,12,0,12
+10182,2025-02-23,Central,Stationery,Notebook,5,4.5,0.1,20.25
+10183,2025-08-08,West,Stationery,Notebook,7,4.5,0,31.5
+10184,2025-12-24,Central,Furniture,Desk,3,249,0.05,709.65
+10185,2025-12-04,Central,Stationery,Planner,10,18,0,180
+10186,2025-02-27,East,Electronics,Monitor,7,219,0,1533
+10187,2025-12-06,West,Furniture,Desk,1,249,0,249
+10188,2025-07-29,East,Software,Antivirus,2,39,0,78
+10189,2025-06-27,West,Software,Antivirus,2,39,0.15,66.3
+10190,2025-09-25,East,Electronics,Webcam,3,45,0.1,121.5
+10191,2025-08-07,South,Stationery,"Pen Set",1,12,0,12
+10192,2025-09-17,South,Stationery,Planner,6,18,0,108
+10193,2025-09-19,West,Software,"Office Suite",8,99,0.1,712.8
+10194,2025-05-12,North,Stationery,Notebook,5,4.5,0,22.5
+10195,2025-09-22,North,Furniture,Chair,3,189,0,567
+10196,2025-07-24,Central,Software,"Office Suite",5,99,0.15,420.75
+10197,2025-09-17,Central,Electronics,Headphones,1,59.9,0,59.9
+10198,2025-10-22,South,Furniture,Lamp,6,34.5,0,207
+10199,2025-03-19,East,Electronics,Webcam,1,45,0.1,40.5
+10200,2025-01-16,North,Stationery,Planner,6,$18.00,0,108
+10201,2025-08-11,North,Electronics,Headphones,2,59.9,0,119.8
+10202,2025-08-12,East,Electronics,Keyboard,5,79.5,0,397.5
+10203,2025-07-14,West,Stationery,"Pen Set",6,12,0.15,61.2
+10204,2025-09-23,West,Stationery,Notebook,8,4.5,0.15,30.6
+10205,2025-09-27,East,Furniture,Lamp,8,34.5,0,276
+10206,2025-07-26,South,Stationery,"Pen Set",6,12,0,72
+10207,2025-05-06,West,Electronics,Webcam,2,45,0.05,85.5
+10208,2025-04-16,East,Stationery,"Pen Set",1,12,0,12
+10209,2025-06-15,West,Furniture,Desk,1,249,0.1,224.1
+10210,2025-10-31,North,Furniture,Desk,4,249,0,996
+10211,2025-07-12,North,Software,Antivirus,4,39,0.15,132.6
+10212,2025-07-02,East,Electronics,Webcam,7,45,0.15,267.75
+10213,2025-09-30,East,Furniture,Chair,8,189,0,1512
+10214,2025-06-02,East,Stationery,Planner,1,18,0,18
+10215,2025-07-20,East,Furniture,Desk,2,249,0,498
+10216,2025-03-11,East,Electronics,Webcam,5,45,0,225
+10217,2025-08-26,North,Furniture,Desk,6,249,0,1494
+10218,2025-11-23,South,Software,"Office Suite",4,99,0.05,376.2
+10219,2025-05-03,North,Software,Antivirus,1,39,0.1,35.1
+10220,2025-05-15,East,Stationery,"Pen Set",5,12,0.05,57
+10221,2025-07-12,East,Furniture,Chair,4,189,0,756
+10222,2025-01-14,West,Stationery,"Pen Set",6,12,0.1,64.8
+10223,2025-06-26,Central,Furniture,Desk,6,249,0.1,1344.6
+10224,2025-11-12,Central,Stationery,Planner,2,18,0,36
+10225,2025-04-13,East,Furniture,Desk,6,$249.00,0.15,1269.9
+10226,2025-12-09,South,Electronics,Monitor,3,219,0,657
+10227,2025-04-23,West,Furniture,Desk,6,249,0,1494
+10228,2025-05-16,Central,Stationery,"Pen Set",5,12,0,60
+10229,2025-06-02,Central,Furniture,Chair,8,189,0,1512
+10230,2025-05-18,North,Furniture,Lamp,2,34.5,0.1,62.1
+10231,2025-06-01,East,Software,Antivirus,7,39,0,273
+10232,2025-03-15,West,Electronics,Keyboard,7,79.5,0,556.5
+10233,2025-03-26,Central,Stationery,Planner,7,18,0,126
+10234,2025-08-15,East,Software,"Office Suite",2,99,0.05,188.1
+10235,2025-08-28,North,Stationery,"Pen Set",2,12,0.15,20.4
+10236,2025-07-15,South,Electronics,Monitor,8,219,0.05,1664.4
+10237,2025-04-19,South,Electronics,Monitor,3,219,0,657
+10238,2025-06-05,West,Software,"Office Suite",3,99,0.1,267.3
+10239,2025-09-13,North,Stationery,Notebook,6,4.5,0.15,22.95
+10240,2025-05-23,East,Electronics,Headphones,2,59.9,0.1,107.82
+10241,2025-12-04,Central,Software,Antivirus,11,39,0,429
+10242,2025-08-15,North,Furniture,Chair,7,189,0,1323
+10243,2025-10-03,North,Electronics,Headphones,1,59.9,0,59.9
+10244,2025-12-13,North,Furniture,Chair,10,189,0.05,1795.5
+10245,2025-02-18,South,Furniture,Chair,3,189,0.1,510.3
+10246,2025-04-29,East,Furniture,Chair,4,189,0.1,680.4
+10247,2025-05-21,North,Electronics,Monitor,6,219,0,1314
+10248,2025-05-10,West,Electronics,Webcam,1,45,0,45
+10249,2025-12-17,West,Stationery,Planner,4,18,0.05,68.4
+10250,2025-02-12,East,Furniture,Desk,3,$249.00,0.15,634.95
+10251,2025-06-15,South,Furniture,Lamp,7,34.5,0,241.5
+10252,2025-08-08,Central,Software,"Office Suite",8,99,0,792
+10253,2025-06-17,West,Electronics,Headphones,7,59.9,0,419.3
+10254,2025-04-08,East,Furniture,Lamp,7,34.5,0,241.5
+10255,2025-09-22,West,Software,"Office Suite",3,99,0,297
+10256,2025-05-05,Central,Stationery,Notebook,2,4.5,0.15,7.65
+10257,2025-11-24,Central,Software,Antivirus,8,39,0.15,265.2
+10258,2025-06-24,West,Furniture,Chair,8,189,0,1512
+10259,2025-06-26,North,Electronics,Keyboard,8,79.5,0.05,604.2
+10260,2025-06-06,East,Software,"Office Suite",8,99,0.05,752.4
+10261,2025-06-22,North,Electronics,Monitor,7,219,0.05,1456.35
+10262,2025-07-11,North,Stationery,Planner,1,18,0.05,17.1
+10263,2025-07-27,East,Furniture,Desk,1,249,0.05,236.55
+10264,2025-03-01,Central,Electronics,Webcam,5,45,0.1,202.5
+10265,2025-06-02,West,Software,"Office Suite",7,99,0,693
+10266,2025-12-14,South,Furniture,Lamp,5,34.5,0,172.5
+10267,2025-04-13,East,Electronics,Headphones,1,59.9,0,59.9
+10268,2025-07-24,East,Electronics,Webcam,1,45,0.1,40.5
+10269,2025-06-24,North,Electronics,Webcam,3,45,0.05,128.25
+10270,2025-12-12,North,Furniture,Lamp,2,34.5,0,69
+10271,2025-08-21,West,Stationery,Planner,3,18,0,54
+10272,2025-12-16,West,Electronics,Keyboard,4,79.5,0,318
+10273,2025-07-29,East,Electronics,Headphones,7,59.9,0,419.3
+10274,2025-03-20,South,Software,"Office Suite",5,99,0,495
+10275,2025-02-25,East,Software,Antivirus,1,$39.00,0,39
+10276,2025-01-06,Central,Software,Antivirus,5,39,0,195
+10277,2025-08-16,North,Electronics,Monitor,5,219,0,1095
+10278,2025-02-22,East,Stationery,Notebook,3,4.5,0.05,12.83
+10279,2025-02-08,West,Electronics,Headphones,5,59.9,0,299.5
+10280,2025-08-27,South,Software,Antivirus,2,39,0,78
+10281,2025-07-26,Central,Stationery,Notebook,2,4.5,0,9
+10282,2025-02-15,West,Furniture,Lamp,6,34.5,0,207
+10283,2025-04-12,West,Electronics,Monitor,5,219,0.1,985.5
+10284,2025-06-20,Central,Software,"Office Suite",2,99,0.1,178.2
+10285,2025-04-24,South,Software,Antivirus,7,39,0.1,245.7
+10286,2025-11-16,North,Furniture,Desk,5,249,0.05,1182.75
+10287,2025-05-31,North,Stationery,"Pen Set",7,12,0.1,75.6
+10288,2025-04-29,Central,Software,"Office Suite",1,99,0,99
+10289,2025-01-20,West,Stationery,Planner,4,18,0,72
+10290,2025-12-31,North,Stationery,Notebook,11,4.5,0.05,47.03
+10291,2025-02-28,Central,Stationery,Planner,4,18,0.15,61.2
+10292,2025-04-23,South,Electronics,Webcam,7,45,0,315
+10293,2025-10-22,West,Stationery,"Pen Set",7,12,0,84
+10294,2025-07-22,East,Stationery,Notebook,5,4.5,0,22.5
+10295,2025-08-23,Central,Software,"Office Suite",2,99,0,198
+10296,2025-11-30,North,Software,Antivirus,3,39,0,117
+10297,2025-12-08,Central,Stationery,Planner,4,18,0,72
+10298,2025-08-26,West,Furniture,Chair,2,189,0,378
+10299,2025-07-11,West,Software,"Office Suite",6,99,0.15,504.9
+10300,2025-07-07,Central,Furniture,Chair,8,$189.00,0,1512
+10300,2025-07-07,Central,Furniture,Chair,8,$189.00,0,1512
+
+10301,2025-03-09,North,Software,"Office Suite",1,99,0.15,84.15
+10302,2025-02-11,North,Furniture,Lamp,8,34.5,0,276
+10303,2025-07-21,West,Stationery,Notebook,6,4.5,0,27
+10304,2025-03-20,Central,Software,"Office Suite",2,99,0,198
+10305,2025-11-30,North,Stationery,Notebook,4,4.5,0,18
+10306,2025-11-22,Central,Furniture,Lamp,2,34.5,0.15,58.65
+10307,2025-03-27,West,Electronics,Webcam,2,45,0.15,76.5
+10308,2025-02-10,North,Furniture,Lamp,5,34.5,0.1,155.25
+10309,2025-09-21,South,Furniture,Chair,8,189,0.15,1285.2
+10310,2025-02-07,West,Electronics,Headphones,7,59.9,0.05,398.34
+10311,2025-02-18,North,Furniture,Lamp,4,34.5,0.15,117.3
+10312,2025-02-25,North,Software,"Office Suite",4,99,0,396
+10313,2025-06-10,East,Stationery,Planner,4,18,0,72
+10314,2025-04-21,West,Electronics,Keyboard,8,79.5,0,636
+10315,2025-11-04,West,Electronics,Keyboard,9,79.5,0.05,679.73
+10316,2025-01-29,East,Stationery,Planner,8,18,0.05,136.8
+10317,2025-07-29,West,Software,Antivirus,2,39,0,78
+10318,2025-03-08,East,Stationery,Notebook,4,4.5,0,18
+10319,2025-09-05,East,Stationery,Notebook,3,4.5,0.05,12.83
+10320,2025-01-30,West,Furniture,Lamp,1,34.5,0.1,31.05
+10321,2025-11-16,South,Electronics,Headphones,8,59.9,0,479.2
+10322,2025-12-05,North,Stationery,Planner,3,18,0,54
+10323,2025-08-29,West,Stationery,"Pen Set",6,12,0,72
+10324,2025-08-01,North,Electronics,Monitor,3,219,0.1,591.3
+10325,2025-11-09,West,Electronics,Webcam,1,$45.00,0,45
+10326,2025-06-11,West,Furniture,Lamp,8,34.5,0,276
+10327,2025-11-14,West,Electronics,Headphones,8,59.9,0,479.2
+10328,2025-06-08,North,Software,Antivirus,2,39,0,78
+10329,2025-11-25,North,Stationery,Planner,2,18,0.1,32.4
+10330,2025-08-27,Central,Furniture,Chair,7,189,0,1323
+10331,2025-03-08,East,Electronics,Webcam,2,45,0,90
+10332,2025-07-02,South,Electronics,Keyboard,1,79.5,0,79.5
+10333,2025-03-16,East,Furniture,Desk,7,249,0,1743
+10334,2025-08-24,North,Furniture,Desk,7,249,0,1743
+10335,2025-01-08,West,Furniture,Desk,1,249,0.15,211.65
+10336,2025-10-19,North,Stationery,Planner,4,18,0,72
+10337,2025-11-04,West,Electronics,Keyboard,10,79.5,0.15,675.75
+10338,2025-12-20,Central,Stationery,Notebook,11,4.5,0,49.5
+10339,2025-02-20,Central,Electronics,Headphones,2,59.9,0,119.8
+10340,2025-01-06,East,Furniture,Lamp,6,34.5,0,207
+10341,2025-11-03,North,Furniture,Desk,8,249,0.1,1792.8
+10342,2025-12-18,East,Furniture,Desk,10,249,0,2490
+10343,2025-04-25,Central,Software,Antivirus,6,39,0.1,210.6
+10344,2025-09-04,North,Electronics,Monitor,1,219,0.15,186.15
+10345,2025-01-28,North,Stationery,"Pen Set",2,12,0.05,22.8
+10346,2025-11-02,West,Stationery,Planner,6,18,0,108
+10347,2025-10-16,North,Electronics,Webcam,8,45,0.05,342
+10348,2025-02-16,East,Furniture,Desk,5,249,0,1245
+10349,2025-03-27,South,Electronics,Webcam,7,45,0,315
+10350,2025-12-05,Central,Electronics,Monitor,6,$219.00,0,1314
+10351,2025-04-03,North,Electronics,Headphones,3,59.9,0.15,152.75
+10352,2025-12-26,Central,Software,Antivirus,8,39,0,312
+10353,2025-05-24,South,Furniture,Desk,7,249,0.15,1481.55
+10354,2025-04-05,Central,Software,"Office Suite",5,99,0,495
+10355,2025-07-02,East,Stationery,"Pen Set",6,12,0,72
+10356,2025-08-12,West,Electronics,Webcam,1,45,0,45
+10357,2025-06-08,Central,Software,"Office Suite",5,99,0,495
+10358,2025-01-04,North,Stationery,"Pen Set",1,12,0.1,10.8
+10359,2025-02-05,Central,Electronics,Headphones,3,59.9,0,179.7
+10360,2025-08-16,East,Furniture,Lamp,1,34.5,0.15,29.33
+10361,2025-04-28,East,Stationery,Planner,5,18,0,90
+10362,2025-05-23,West,Electronics,Headphones,4,59.9,0.05,227.62
+10363,2025-03-25,South,Stationery,"Pen Set",8,12,0,96
+10364,2025-03-22,West,Electronics,Headphones,3,59.9,0,179.7
+10365,2025-12-11,South,Furniture,Lamp,7,34.5,0.15,205.28
+10366,2025-03-09,Central,Stationery,Notebook,8,4.5,0.05,34.2
+10367,2025-05-17,South,Software,Antivirus,5,39,0.15,165.75
+10368,2025-07-03,East,Furniture,Desk,4,249,0,996
+10369,2025-11-05,North,Electronics,Headphones,4,59.9,0.15,203.66
+10370,2025-10-21,East,Furniture,Desk,3,249,0.15,634.95
+10371,2025-03-19,North,Software,"Office Suite",8,99,0.1,712.8
+10372,2025-11-09,South,Electronics,Webcam,11,45,0,495
+10373,2025-12-02,Central,Electronics,Keyboard,3,79.5,0.05,226.58
+10374,2025-09-09,Central,Electronics,Headphones,5,59.9,0.05,284.53
+10375,2025-04-21,South,Stationery,"Pen Set",4,$12.00,0,48
+10376,2025-10-11,East,Electronics,Webcam,1,45,0,45
+10377,2025-09-25,West,Furniture,Desk,8,249,0,1992
+10378,2025-12-20,North,Stationery,Notebook,3,4.5,0.05,12.83
+10379,2025-11-16,West,Electronics,Monitor,10,219,0,2190
+10380,2025-08-15,South,Stationery,Notebook,1,4.5,0,4.5
+10381,2025-07-25,East,Furniture,Desk,8,249,0.05,1892.4
+10382,2025-04-15,South,Software,"Office Suite",3,99,0.15,252.45
+10383,2025-07-23,Central,Electronics,Monitor,2,219,0.1,394.2
+10384,2025-07-15,West,Stationery,"Pen Set",5,12,0,60
+10385,2025-04-22,Central,Software,"Office Suite",4,99,0,396
+10386,2025-02-23,West,Software,Antivirus,4,39,0,156
+10387,2025-08-23,South,Furniture,Desk,6,249,0,1494
+10388,2025-10-16,West,Furniture,Chair,6,189,0,1134
+10389,2025-08-22,South,Software,"Office Suite",3,99,0,297
+10390,2025-02-01,Central,Software,Antivirus,5,39,0,195
+10391,2025-07-02,South,Stationery,Planner,8,18,0,144
+10392,2025-12-07,South,Stationery,Notebook,3,4.5,0.15,11.48
+10393,2025-07-31,Central,Electronics,Keyboard,5,79.5,0.1,357.75
+10394,2025-12-27,South,Stationery,Notebook,8,4.5,0.1,32.4
+10395,2025-08-30,West,Stationery,Notebook,4,4.5,0.05,17.1
+10396,2025-11-11,North,Stationery,Notebook,9,4.5,0.05,38.48
+10397,2025-03-07,North,Electronics,Keyboard,8,79.5,0.1,572.4
+10398,2025-04-29,South,Furniture,Lamp,1,34.5,0,34.5
+10399,2025-02-10,North,Electronics,Webcam,4,45,0.05,171
+10400,2025-07-27,Central,Electronics,Keyboard,8,$79.50,0.1,572.4
+10401,2025-06-29,West,Software,"Office Suite",7,99,0.15,589.05
+10402,2025-11-28,North,Software,"Office Suite",6,99,0,594
+10403,2025-08-22,North,Software,Antivirus,3,39,0.15,99.45
+10404,2025-12-31,South,Stationery,Notebook,8,4.5,0.05,34.2
+10405,2025-08-17,West,Software,"Office Suite",3,99,0.05,282.15
+10406,2025-02-18,North,Electronics,Webcam,6,45,0.1,243
+10407,2025-06-05,South,Software,"Office Suite",4,99,0,396
+10408,2025-03-18,North,Electronics,Monitor,7,219,0.15,1303.05
+10409,2025-02-14,North,Electronics,Webcam,8,45,0.05,342
+10410,2025-07-27,Central,Electronics,Headphones,8,59.9,0.1,431.28
+10411,2025-12-16,West,Software,"Office Suite",8,99,0,792
+10412,2025-01-10,East,Stationery,Notebook,1,4.5,0,4.5
+10413,2025-08-16,Central,Electronics,Monitor,3,219,0,657
+10414,2025-04-15,West,Electronics,Headphones,4,59.9,0,239.6
+10415,2025-07-13,East,Stationery,Notebook,6,4.5,0.15,22.95
+10416,2025-08-10,West,Electronics,Webcam,8,45,0,360
+10417,2025-06-10,East,Electronics,Webcam,1,45,0,45
+10418,2025-04-02,East,Furniture,Chair,5,189,0.05,897.75
+10419,2025-08-02,South,Stationery,"Pen Set",6,12,0.1,64.8
+10420,2025-09-08,North,Furniture,Chair,7,189,0.05,1256.85
+10421,2025-08-03,Central,Software,Antivirus,8,39,0,312
+10422,2025-07-20,Central,Stationery,Planner,1,18,0.05,17.1
+10423,2025-11-27,North,Stationery,"Pen Set",4,12,0,48
+10424,2025-12-16,Central,Furniture,Chair,7,189,0.05,1256.85
+10425,2025-04-25,South,Stationery,Planner,3,$18.00,0.05,51.3
+10426,2025-09-19,South,Furniture,Chair,6,189,0.05,1077.3
+10427,2025-08-12,Central,Stationery,"Pen Set",4,12,0.05,45.6
+10428,2025-12-03,North,Furniture,Lamp,7,34.5,0,241.5
+10429,2025-08-14,North,Electronics,Keyboard,2,79.5,0.1,143.1
+10430,2025-05-12,South,Software,Antivirus,8,39,0.1,280.8
+10431,2025-12-17,South,Stationery,Notebook,4,4.5,0.15,15.3
+10432,2025-09-06,West,Stationery,Notebook,5,4.5,0.15,19.13
+10433,2025-05-12,Central,Stationery,Notebook,4,4.5,0.05,17.1
+10434,2025-01-05,North,Electronics,Headphones,6,59.9,0.1,323.46
+10435,2025-07-02,East,Stationery,Notebook,1,4.5,0.15,3.83
+10436,2025-02-09,North,Furniture,Chair,8,189,0.05,1436.4
+10437,2025-10-12,Central,Software,"Office Suite",6,99,0.05,564.3
+10438,2025-10-21,South,Furniture,Desk,3,249,0.05,709.65
+10439,2025-09-24,West,Furniture,Chair,2,189,0.15,321.3
+10440,2025-12-12,North,Stationery,"Pen Set",6,12,0.05,68.4
+10441,2025-12-15,South,Stationery,Notebook,9,4.5,0.1,36.45
+10442,2025-04-27,North,Furniture,Lamp,5,34.5,0.1,155.25
+10443,2025-07-03,East,Furniture,Lamp,4,34.5,0.15,117.3
+10444,2025-08-22,West,Furniture,Chair,6,189,0.15,963.9
+10445,2025-05-18,East,Electronics,Headphones,6,59.9,0,359.4
+10446,2025-11-10,North,Furniture,Desk,6,249,0,1494
+10447,2025-02-28,West,Electronics,Monitor,2,219,0.1,394.2
+10448,2025-11-16,South,Stationery,Planner,2,18,0.15,30.6
+10449,2025-02-07,North,Electronics,Keyboard,1,79.5,0.15,67.58
+10450,2025-08-05,West,Software,Antivirus,7,$39.00,0.1,245.7
+10450,2025-08-05,West,Software,Antivirus,7,$39.00,0.1,245.7
+
+10451,2025-05-18,East,Furniture,Desk,6,249,0,1494
+10452,2025-04-12,North,Electronics,Webcam,4,45,0.15,153
+10453,2025-06-08,West,Electronics,Monitor,8,219,0.1,1576.8
+10454,2025-04-06,Central,Electronics,Monitor,6,219,0.15,1116.9
+10455,2025-05-19,Central,Stationery,Notebook,7,4.5,0,31.5
+10456,2025-10-15,West,Electronics,Headphones,8,59.9,0,479.2
+10457,2025-11-30,South,Stationery,"Pen Set",8,12,0.05,91.2
+10458,2025-01-03,East,Furniture,Lamp,2,34.5,0,69
+10459,2025-10-17,Central,Software,"Office Suite",5,99,0,495
+10460,2025-07-07,Central,Furniture,Desk,5,249,0,1245
+10461,2025-07-17,South,Electronics,Keyboard,6,79.5,0.05,453.15
+10462,2025-06-08,East,Electronics,Webcam,8,45,0,360
+10463,2025-12-13,Central,Furniture,Chair,2,189,0.1,340.2
+10464,2025-02-16,North,Software,Antivirus,3,39,0.05,111.15
+10465,2025-02-21,South,Furniture,Desk,7,249,0.15,1481.55
+10466,2025-11-09,South,Software,"Office Suite",5,99,0.15,420.75
+10467,2025-03-06,West,Furniture,Chair,1,189,0.1,170.1
+10468,2025-10-16,North,Software,"Office Suite",5,99,0,495
+10469,2025-07-30,South,Furniture,Desk,7,249,0,1743
+10470,2025-05-19,East,Furniture,Lamp,2,34.5,0.05,65.55
+10471,2025-04-06,South,Software,Antivirus,8,39,0,312
+10472,2025-07-30,North,Software,Antivirus,6,39,0,234
+10473,2025-10-01,South,Stationery,"Pen Set",8,12,0.05,91.2
+10474,2025-09-23,East,Electronics,Headphones,2,59.9,0.05,113.81
+10475,2025-12-03,East,Furniture,Desk,6,$249.00,0.1,1344.6
+10476,2025-12-15,North,Electronics,Monitor,5,219,0,1095
+10477,2025-06-15,West,Electronics,Keyboard,4,79.5,0.05,302.1
+10478,2025-10-16,West,Furniture,Chair,6,189,0.1,1020.6
+10479,2025-05-08,West,Furniture,Lamp,1,34.5,0.1,31.05
+10480,2025-07-07,South,Stationery,Notebook,8,4.5,0,36
+10481,2025-07-24,West,Electronics,Headphones,7,59.9,0,419.3
+10482,2025-03-16,West,Stationery,Notebook,5,4.5,0,22.5
+10483,2025-04-18,North,Electronics,Headphones,1,59.9,0,59.9
+10484,2025-05-31,North,Software,"Office Suite",2,99,0.1,178.2
+10485,2025-12-02,South,Furniture,Chair,3,189,0,567
+10486,2025-10-20,North,Electronics,Webcam,8,45,0,360
+10487,2025-11-04,Central,Software,Antivirus,5,39,0.05,185.25
+10488,2025-09-03,North,Furniture,Chair,5,189,0,945
+10489,2025-02-18,Central,Stationery,Planner,8,18,0,144
+10490,2025-07-11,North,Furniture,Lamp,3,34.5,0,103.5
+10491,2025-05-18,East,Stationery,Planner,7,18,0.05,119.7
+10492,2025-10-22,North,Software,Antivirus,1,39,0.15,33.15
+10493,2025-09-18,East,Stationery,Notebook,5,4.5,0.1,20.25
+10494,2025-01-18,North,Furniture,Chair,5,189,0.05,897.75
+10495,2025-07-09,South,Software,"Office Suite",3,99,0,297
+10496,2025-10-14,Central,Stationery,"Pen Set",8,12,0.15,81.6
+10497,2025-02-19,East,Furniture,Chair,1,189,0,189
+10498,2025-02-23,East,Electronics,Webcam,3,45,0,135
+10499,2025-09-28,South,Furniture,Lamp,5,34.5,0.1,155.25
+10500,2025-03-29,East,Software,Antivirus,2,$39.00,0,78
+10501,2025-11-12,Central,Software,"Office Suite",6,99,0.05,564.3
+10502,2025-10-12,East,Software,"Office Suite",5,99,0.05,470.25
+10503,2025-12-17,South,Electronics,Keyboard,6,79.5,0.05,453.15
+10504,2025-04-01,West,Electronics,Webcam,1,45,0,45
+10505,2025-11-21,South,Furniture,Desk,8,249,0,1992
+10506,2025-04-05,West,Electronics,Webcam,3,45,0,135
+10507,2025-02-01,Central,Software,Antivirus,4,39,0.15,132.6
+10508,2025-08-31,Central,Electronics,Webcam,3,45,0,135
+10509,2025-08-15,East,Stationery,"Pen Set",5,12,0.1,54
+10510,2025-01-12,North,Software,"Office Suite",1,99,0,99
+10511,2025-11-13,South,Furniture,Lamp,7,34.5,0,241.5
+10512,2025-01-12,East,Software,Antivirus,2,39,0,78
+10513,2025-01-02,South,Electronics,Headphones,6,59.9,0.1,323.46
+10514,2025-06-22,Central,Stationery,"Pen Set",5,12,0,60
+10515,2025-07-14,Central,Furniture,Lamp,7,34.5,0,241.5
+10516,2025-07-25,North,Stationery,"Pen Set",4,12,0.15,40.8
+10517,2025-10-01,Central,Furniture,Chair,2,189,0.05,359.1
+10518,2025-10-01,South,Furniture,Chair,8,189,0,1512
+10519,2025-02-04,South,Stationery,"Pen Set",8,12,0,96
+10520,2025-07-25,East,Electronics,Keyboard,4,79.5,0,318
+10521,2025-01-07,South,Furniture,Chair,5,189,0.15,803.25
+10522,2025-12-16,Central,Electronics,Monitor,7,219,0.05,1456.35
+10523,2025-04-22,East,Software,Antivirus,2,39,0.1,70.2
+10524,2025-01-27,South,Furniture,Chair,4,189,0,756
+10525,2025-06-10,North,Stationery,Notebook,7,$4.50,0.05,29.93
+10526,2025-03-05,West,Furniture,Desk,2,249,0,498
+10527,2025-02-09,South,Electronics,Keyboard,7,79.5,0,556.5
+10528,2025-08-28,West,Furniture,Lamp,6,34.5,0,207
+10529,2025-02-08,West,Software,Antivirus,8,39,0.05,296.4
+10530,2025-06-04,South,Stationery,Planner,6,18,0,108
+10531,2025-12-06,North,Stationery,"Pen Set",9,12,0.1,97.2
+10532,2025-07-28,South,Software,Antivirus,1,39,0.15,33.15
+10533,2025-02-12,North,Furniture,Desk,2,249,0,498
+10534,2025-06-04,West,Electronics,Headphones,8,59.9,0,479.2
+10535,2025-11-08,North,Furniture,Desk,6,249,0.15,1269.9
+10536,2025-01-18,Central,Electronics,Webcam,1,45,0,45
+10537,2025-11-03,South,Electronics,Headphones,3,59.9,0.1,161.73
+10538,2025-11-30,North,Stationery,Notebook,6,4.5,0.05,25.65
+10539,2025-11-10,Central,Furniture,Lamp,10,34.5,0.05,327.75
+10540,2025-02-20,South,Furniture,Chair,7,189,0,1323
+10541,2025-04-21,North,Furniture,Chair,3,189,0,567
+10542,2025-06-04,Central,Furniture,Lamp,6,34.5,0,207
+10543,2025-10-13,East,Software,"Office Suite",1,99,0.1,89.1
+10544,2025-05-24,South,Furniture,Chair,2,189,0.1,340.2
+10545,2025-02-08,East,Software,"Office Suite",8,99,0,792
+10546,2025-07-08,East,Electronics,Headphones,6,59.9,0,359.4
+10547,2025-11-26,North,Furniture,Desk,7,249,0,1743
+10548,2025-05-16,Central,Software,Antivirus,3,39,0,117
+10549,2025-03-26,East,Electronics,Headphones,2,59.9,0.05,113.81
+10550,2025-11-30,South,Software,Antivirus,7,$39.00,0,273
+10551,2025-07-27,South,Software,"Office Suite",8,99,0.05,752.4
+10552,2025-11-23,North,Furniture,Lamp,5,34.5,0.1,155.25
+10553,2025-10-30,Central,Software,Antivirus,3,39,0.05,111.15
+10554,2025-04-29,West,Stationery,"Pen Set",7,12,0.1,75.6
+10555,2025-04-10,North,Furniture,Chair,1,189,0,189
+10556,2025-03-12,East,Furniture,Desk,7,249,0.05,1655.85
+10557,2025-10-28,West,Stationery,"Pen Set",1,12,0,12
+10558,2025-08-02,West,Software,"Office Suite",6,99,0,594
+10559,2025-01-12,Central,Software,"Office Suite",1,99,0.05,94.05
+10560,2025-08-01,North,Software,Antivirus,5,39,0.1,175.5
+10561,2025-01-12,Central,Electronics,Monitor,4,219,0,876
+10562,2025-06-20,East,Furniture,Desk,5,249,0,1245
+10563,2025-10-18,North,Software,Antivirus,3,39,0.1,105.3
+10564,2025-08-17,North,Furniture,Lamp,7,34.5,0,241.5
+10565,2025-10-28,Central,Electronics,Webcam,7,45,0.15,267.75
+10566,2025-02-10,East,Electronics,Webcam,6,45,0,270
+10567,2025-10-27,West,Stationery,Notebook,8,4.5,0.1,32.4
+10568,2025-03-26,East,Electronics,Headphones,2,59.9,0,119.8
+10569,2025-03-14,South,Electronics,Webcam,5,45,0,225
+10570,2025-06-15,North,Electronics,Keyboard,1,79.5,0.15,67.58
+10571,2025-03-28,South,Electronics,Monitor,8,219,0,1752
+10572,2025-12-22,East,Furniture,Lamp,5,34.5,0,172.5
+10573,2025-08-03,South,Software,Antivirus,1,39,0,39
+10574,2025-08-21,East,Furniture,Chair,5,189,0.15,803.25
+10575,2025-08-11,Central,Electronics,Monitor,1,$219.00,0.05,208.05
+10576,2025-07-05,Central,Electronics,Webcam,4,45,0.15,153
+10577,2025-11-04,West,Furniture,Chair,5,189,0.05,897.75
+10578,2025-09-03,East,Software,Antivirus,7,39,0,273
+10579,2025-07-31,Central,Furniture,Desk,1,249,0.1,224.1
+10580,2025-11-29,East,Stationery,Planner,5,18,0,90
+10581,2025-12-31,West,Electronics,Keyboard,5,79.5,0.15,337.88
+10582,2025-05-20,South,Stationery,Planner,1,18,0,18
+10583,2025-05-06,North,Stationery,Planner,1,18,0.1,16.2
+10584,2025-08-15,East,Software,"Office Suite",7,99,0,693
+10585,2025-03-11,Central,Software,Antivirus,3,39,0,117
+10586,2025-03-21,West,Stationery,Planner,2,18,0,36
+10587,2025-06-16,Central,Furniture,Chair,8,189,0.05,1436.4
+10588,2025-10-10,North,Stationery,"Pen Set",8,12,0,96
+10589,2025-04-19,East,Software,"Office Suite",8,99,0.1,712.8
+10590,2025-03-13,South,Stationery,"Pen Set",3,12,0,36
+10591,2025-01-13,North,Software,"Office Suite",1,99,0.1,89.1
+10592,2025-12-29,Central,Stationery,Notebook,8,4.5,0,36
+10593,2025-11-05,West,Software,Antivirus,9,39,0.05,333.45
+10594,2025-10-12,North,Software,Antivirus,8,39,0.05,296.4
+10595,2025-01-31,South,Furniture,Lamp,2,34.5,0,69
+10596,2025-12-27,South,Furniture,Desk,4,249,0.1,896.4
+10597,2025-04-06,West,Software,"Office Suite",1,99,0.15,84.15
+10598,2025-03-10,West,Furniture,Desk,5,249,0.15,1058.25
+10599,2025-12-13,Central,Furniture,Desk,10,249,0.1,2241
+10600,2025-11-02,Central,Furniture,Chair,10,$189.00,0,1890
+10600,2025-11-02,Central,Furniture,Chair,10,$189.00,0,1890
+
+10601,2025-06-15,East,Furniture,Lamp,5,34.5,0.05,163.88
+10602,2025-10-01,East,Software,"Office Suite",8,99,0,792
+10603,2025-04-06,Central,Software,"Office Suite",3,99,0.05,282.15
+10604,2025-02-09,North,Stationery,Notebook,6,4.5,0,27
+10605,2025-10-26,Central,Furniture,Chair,5,189,0,945
+10606,2025-02-02,South,Stationery,Notebook,7,4.5,0.1,28.35
+10607,2025-09-19,North,Software,"Office Suite",5,99,0,495
+10608,2025-06-05,East,Electronics,Headphones,8,59.9,0,479.2
+10609,2025-09-22,Central,Stationery,Planner,5,18,0,90
+10610,2025-02-20,Central,Stationery,Planner,8,18,0,144
+10611,2025-05-07,Central,Furniture,Chair,8,189,0.05,1436.4
+10612,2025-06-12,North,Electronics,Keyboard,1,79.5,0.15,67.58
+10613,2025-01-16,South,Software,"Office Suite",2,99,0.05,188.1
+10614,2025-03-10,East,Furniture,Chair,8,189,0,1512
+10615,2025-07-05,North,Stationery,"Pen Set",1,12,0,12
+10616,2025-04-27,Central,Software,"Office Suite",6,99,0,594
+10617,2025-11-27,Central,Furniture,Chair,2,189,0,378
+10618,2025-12-13,South,Electronics,Headphones,7,59.9,0,419.3
+10619,2025-09-06,North,Stationery,Planner,8,18,0,144
+10620,2025-09-19,Central,Software,Antivirus,5,39,0,195
+10621,2025-01-15,East,Software,"Office Suite",3,99,0,297
+10622,2025-01-13,East,Electronics,Webcam,8,45,0,360
+10623,2025-06-21,East,Furniture,Lamp,4,34.5,0.05,131.1
+10624,2025-10-14,North,Software,Antivirus,7,39,0.1,245.7
+10625,2025-03-01,North,Furniture,Chair,8,$189.00,0,1512
+10626,2025-10-15,Central,Stationery,"Pen Set",4,12,0.15,40.8
+10627,2025-09-28,East,Furniture,Chair,2,189,0,378
+10628,2025-08-02,North,Software,Antivirus,1,39,0.1,35.1
+10629,2025-05-23,North,Furniture,Chair,5,189,0.05,897.75
+10630,2025-03-02,South,Furniture,Desk,7,249,0.05,1655.85
+10631,2025-06-15,South,Software,Antivirus,4,39,0,156
+10632,2025-03-09,West,Stationery,Planner,2,18,0,36
+10633,2025-04-30,South,Stationery,"Pen Set",3,12,0,36
+10634,2025-10-06,East,Software,"Office Suite",5,99,0,495
+10635,2025-01-09,North,Software,"Office Suite",8,99,0.1,712.8
+10636,2025-12-16,West,Furniture,Desk,8,249,0.15,1693.2
+10637,2025-09-16,North,Furniture,Desk,5,249,0.1,1120.5
+10638,2025-07-06,East,Furniture,Desk,3,249,0.1,672.3
+10639,2025-06-04,East,Furniture,Desk,6,249,0,1494
+10640,2025-09-30,Central,Stationery,"Pen Set",3,12,0,36
+10641,2025-06-13,South,Stationery,Notebook,2,4.5,0,9
+10642,2025-08-12,West,Software,Antivirus,4,39,0,156
+10643,2025-06-08,West,Software,Antivirus,4,39,0.05,148.2
+10644,2025-04-26,East,Furniture,Desk,7,249,0.05,1655.85
+10645,2025-12-29,South,Software,Antivirus,4,39,0,156
+10646,2025-10-20,Central,Software,"Office Suite",4,99,0.1,356.4
+10647,2025-12-14,Central,Software,Antivirus,5,39,0.1,175.5
+10648,2025-02-11,South,Furniture,Lamp,6,34.5,0.05,196.65
+10649,2025-10-18,West,Stationery,Planner,6,18,0.05,102.6
+10650,2025-03-15,West,Software,"Office Suite",7,$99.00,0,693
+10651,2025-10-03,Central,Furniture,Chair,1,189,0.1,170.1
+10652,2025-05-06,North,Stationery,Planner,2,18,0,36
+10653,2025-10-14,West,Electronics,Monitor,2,219,0.1,394.2
+10654,2025-11-28,North,Furniture,Lamp,10,34.5,0.15,293.25
+10655,2025-08-13,Central,Software,"Office Suite",7,99,0.05,658.35
+10656,2025-06-15,East,Furniture,Chair,4,189,0.05,718.2
+10657,2025-07-10,South,Electronics,Headphones,2,59.9,0,119.8
+10658,2025-12-03,West,Stationery,"Pen Set",5,12,0.1,54
+10659,2025-05-12,South,Stationery,Notebook,5,4.5,0,22.5
+10660,2025-09-25,South,Electronics,Headphones,1,59.9,0,59.9
+10661,2025-11-23,North,Stationery,Planner,2,18,0,36
+10662,2025-06-21,North,Electronics,Monitor,5,219,0,1095
+10663,2025-09-19,South,Furniture,Desk,1,249,0.1,224.1
+10664,2025-06-12,North,Electronics,Webcam,6,45,0.15,229.5
+10665,2025-01-11,North,Electronics,Webcam,5,45,0,225
+10666,2025-11-25,North,Software,Antivirus,3,39,0,117
+10667,2025-12-30,North,Stationery,Planner,10,18,0,180
+10668,2025-09-24,North,Software,"Office Suite",4,99,0,396
+10669,2025-01-19,East,Software,Antivirus,7,39,0,273
+10670,2025-06-19,South,Stationery,Notebook,4,4.5,0,18
+10671,2025-10-23,East,Furniture,Desk,6,249,0,1494
+10672,2025-11-28,East,Electronics,Keyboard,9,79.5,0.15,608.18
+10673,2025-10-23,Central,Electronics,Headphones,8,59.9,0,479.2
+10674,2025-05-29,North,Electronics,Keyboard,2,79.5,0,159
+10675,2025-09-21,Central,Stationery,Notebook,4,$4.50,0,18
+10676,2025-10-28,North,Stationery,"Pen Set",7,12,0.05,79.8
+10677,2025-09-05,North,Stationery,Planner,3,18,0.1,48.6
+10678,2025-11-15,West,Stationery,Planner,7,18,0.15,107.1
+10679,2025-01-22,South,Software,Antivirus,4,39,0,156
+10680,2025-09-18,Central,Stationery,"Pen Set",7,12,0.1,75.6
+10681,2025-08-17,West,Software,"Office Suite",2,99,0.15,168.3
+10682,2025-05-16,South,Software,"Office Suite",7,99,0.15,589.05
+10683,2025-03-03,East,Stationery,"Pen Set",2,12,0.1,21.6
+10684,2025-04-12,Central,Electronics,Monitor,1,219,0.1,197.1
+10685,2025-12-11,North,Electronics,Monitor,6,219,0.15,1116.9
+10686,2025-09-19,Central,Furniture,Chair,6,189,0,1134
+10687,2025-06-12,South,Electronics,Monitor,3,219,0.05,624.15
+10688,2025-05-13,East,Electronics,Keyboard,5,79.5,0,397.5
+10689,2025-10-21,West,Furniture,Desk,2,249,0.05,473.1
+10690,2025-04-06,West,Furniture,Chair,3,189,0,567
+10691,2025-04-14,North,Electronics,Headphones,3,59.9,0.1,161.73
+10692,2025-12-30,North,Software,"Office Suite",3,99,0,297
+10693,2025-10-09,North,Electronics,Monitor,5,219,0,1095
+10694,2025-12-07,East,Furniture,Chair,6,189,0,1134
+10695,2025-11-01,West,Furniture,Chair,4,189,0.15,642.6
+10696,2025-04-11,Central,Furniture,Chair,3,189,0.15,481.95
+10697,2025-06-01,Central,Furniture,Chair,5,189,0.15,803.25
+10698,2025-07-06,North,Furniture,Lamp,5,34.5,0,172.5
+10699,2025-02-28,South,Electronics,Keyboard,7,79.5,0.15,473.03
+10700,2025-10-01,North,Electronics,Keyboard,8,$79.50,0.15,540.6
+10701,2025-11-11,South,Electronics,Monitor,5,219,0.05,1040.25
+10702,2025-12-03,South,Electronics,Monitor,6,219,0.05,1248.3
+10703,2025-11-17,Central,Software,"Office Suite",6,99,0.1,534.6
+10704,2025-12-13,West,Software,"Office Suite",3,99,0,297
+10705,2025-03-13,South,Stationery,"Pen Set",4,12,0.05,45.6
+10706,2025-10-19,East,Furniture,Desk,7,249,0,1743
+10707,2025-03-12,East,Electronics,Headphones,6,59.9,0,359.4
+10708,2025-05-14,North,Software,Antivirus,7,39,0,273
+10709,2025-06-14,South,Electronics,Keyboard,2,79.5,0.1,143.1
+10710,2025-05-31,West,Stationery,Notebook,7,4.5,0,31.5
+10711,2025-11-11,Central,Software,"Office Suite",9,99,0.05,846.45
+10712,2025-07-24,South,Furniture,Chair,3,189,0.05,538.65
+10713,2025-06-30,North,Stationery,Planner,1,18,0,18
+10714,2025-03-11,West,Furniture,Desk,6,249,0.1,1344.6
+10715,2025-01-07,West,Electronics,Keyboard,6,79.5,0,477
+10716,2025-04-16,North,Stationery,"Pen Set",4,12,0.05,45.6
+10717,2025-04-01,East,Furniture,Chair,1,189,0,189
+10718,2025-01-05,South,Electronics,Monitor,3,219,0,657
+10719,2025-06-17,South,Software,"Office Suite",5,99,0,495
+10720,2025-02-03,South,Electronics,Webcam,1,45,0,45
+10721,2025-08-20,North,Software,Antivirus,6,39,0,234
+10722,2025-11-19,West,Electronics,Keyboard,6,79.5,0.05,453.15
+10723,2025-05-18,West,Software,"Office Suite",8,99,0.15,673.2
+10724,2025-03-14,North,Furniture,Lamp,1,34.5,0.05,32.78
+10725,2025-06-30,South,Stationery,"Pen Set",5,$12.00,0.05,57
+10726,2025-05-24,East,Furniture,Lamp,3,34.5,0,103.5
+10727,2025-10-21,West,Furniture,Chair,7,189,0,1323
+10728,2025-09-18,North,Software,Antivirus,3,39,0.15,99.45
+10729,2025-05-21,West,Electronics,Headphones,5,59.9,0,299.5
+10730,2025-12-21,North,Electronics,Webcam,8,45,0.05,342
+10731,2025-03-31,West,Stationery,"Pen Set",8,12,0.15,81.6
+10732,2025-01-04,North,Furniture,Desk,7,249,0.1,1568.7
+10733,2025-10-17,South,Software,Antivirus,6,39,0.15,198.9
+10734,2025-07-18,West,Furniture,Lamp,1,34.5,0,34.5
+10735,2025-03-20,West,Stationery,Planner,4,18,0,72
+10736,2025-04-02,West,Software,Antivirus,3,39,0.15,99.45
+10737,2025-01-31,East,Software,"Office Suite",3,99,0,297
+10738,2025-01-31,North,Software,Antivirus,6,39,0,234
+10739,2025-05-31,Central,Furniture,Desk,5,249,0.05,1182.75
+10740,2025-10-14,North,Stationery,"Pen Set",3,12,0.15,30.6
+10741,2025-07-11,North,Electronics,Headphones,5,59.9,0,299.5
+10742,2025-03-22,North,Furniture,Desk,8,249,0,1992
+10743,2025-11-09,Central,Electronics,Headphones,5,59.9,0.15,254.58
+10744,2025-12-18,South,Furniture,Lamp,6,34.5,0,207
+10745,2025-04-05,East,Stationery,"Pen Set",5,12,0.1,54
+10746,2025-08-16,West,Furniture,Lamp,6,34.5,0.05,196.65
+10747,2025-09-05,North,Software,Antivirus,1,39,0.1,35.1
+10748,2025-06-21,West,Electronics,Keyboard,3,79.5,0.1,214.65
+10749,2025-05-13,North,Stationery,Notebook,8,4.5,0,36
+10750,2025-05-25,West,Stationery,Planner,7,$18.00,0.05,119.7
+10750,2025-05-25,West,Stationery,Planner,7,$18.00,0.05,119.7
+
+10751,2025-04-27,West,Software,"Office Suite",3,99,0,297
+10752,2025-02-03,Central,Electronics,Headphones,5,59.9,0.05,284.53
+10753,2025-05-20,South,Electronics,Headphones,2,59.9,0.1,107.82
+10754,2025-12-15,Central,Electronics,Monitor,2,219,0.1,394.2
+10755,2025-10-03,Central,Electronics,Keyboard,7,79.5,0.1,500.85
+10756,2025-05-26,South,Furniture,Chair,2,189,0,378
+10757,2025-01-29,South,Stationery,Planner,2,18,0,36
+10758,2025-04-04,East,Software,"Office Suite",4,99,0,396
+10759,2025-07-19,East,Furniture,Desk,7,249,0,1743
+10760,2025-02-26,Central,Stationery,Notebook,1,4.5,0.15,3.83
+10761,2025-08-26,West,Stationery,"Pen Set",2,12,0,24
+10762,2025-08-23,Central,Furniture,Desk,1,249,0.1,224.1
+10763,2025-11-04,South,Software,"Office Suite",4,99,0,396
+10764,2025-03-06,East,Stationery,Notebook,6,4.5,0,27
+10765,2025-03-27,Central,Electronics,Webcam,4,45,0,180
+10766,2025-03-15,Central,Stationery,"Pen Set",7,12,0.15,71.4
+10767,2025-12-07,Central,Furniture,Lamp,7,34.5,0,241.5
+10768,2025-12-25,East,Electronics,Webcam,5,45,0,225
+10769,2025-07-10,South,Software,Antivirus,5,39,0.1,175.5
+10770,2025-03-10,East,Furniture,Desk,6,249,0.05,1419.3
+10771,2025-11-07,South,Software,Antivirus,6,39,0.15,198.9
+10772,2025-09-03,South,Stationery,Planner,8,18,0.1,129.6
+10773,2025-04-22,South,Furniture,Lamp,1,34.5,0,34.5
+10774,2025-08-04,South,Electronics,Monitor,7,219,0.15,1303.05
+10775,2025-08-31,East,Electronics,Keyboard,4,$79.50,0,318
+10776,2025-10-18,Central,Electronics,Keyboard,4,79.5,0,318
+10777,2025-09-06,East,Software,"Office Suite",4,99,0,396
+10778,2025-09-12,East,Stationery,Notebook,6,4.5,0,27
+10779,2025-10-14,South,Furniture,Chair,5,189,0,945
+10780,2025-08-12,Central,Software,"Office Suite",4,99,0.15,336.6
+10781,2025-05-13,South,Software,Antivirus,5,39,0.05,185.25
+10782,2025-05-07,West,Software,"Office Suite",3,99,0.1,267.3
+10783,2025-04-28,South,Software,"Office Suite",3,99,0.05,282.15
+10784,2025-10-24,West,Software,Antivirus,2,39,0.1,70.2
+10785,2025-12-04,Central,Stationery,Planner,8,18,0,144
+10786,2025-08-02,East,Furniture,Chair,5,189,0.15,803.25
+10787,2025-04-04,East,Stationery,Notebook,6,4.5,0.15,22.95
+10788,2025-04-05,West,Electronics,Headphones,5,59.9,0.1,269.55
+10789,2025-02-10,South,Furniture,Chair,1,189,0,189
+10790,2025-09-06,South,Furniture,Desk,5,249,0,1245
+10791,2025-10-09,North,Electronics,Webcam,5,45,0.05,213.75
+10792,2025-12-28,East,Stationery,Planner,4,18,0.15,61.2
+10793,2025-07-01,Central,Stationery,"Pen Set",1,12,0,12
+10794,2025-11-18,Central,Software,Antivirus,6,39,0,234
+10795,2025-05-19,West,Electronics,Monitor,7,219,0.05,1456.35
+10796,2025-01-19,West,Electronics,Keyboard,2,79.5,0,159
+10797,2025-12-31,East,Electronics,Headphones,4,59.9,0,239.6
+10798,2025-11-26,East,Electronics,Monitor,2,219,0.1,394.2
+10799,2025-05-07,North,Software,"Office Suite",5,99,0,495
+10800,2025-05-17,West,Furniture,Chair,7,$189.00,0.05,1256.85
+10801,2025-08-06,East,Furniture,Desk,6,249,0.1,1344.6
+10802,2025-10-29,Central,Furniture,Desk,6,249,0,1494
+10803,2025-02-16,Central,Electronics,Headphones,8,59.9,0,479.2
+10804,2025-05-17,West,Furniture,Lamp,6,34.5,0,207
+10805,2025-07-28,Central,Furniture,Lamp,4,34.5,0,138
+10806,2025-04-25,West,Furniture,Lamp,7,34.5,0.15,205.28
+10807,2025-03-27,West,Stationery,Notebook,6,4.5,0.15,22.95
+10808,2025-05-01,North,Stationery,Planner,8,18,0,144
+10809,2025-10-14,North,Electronics,Keyboard,5,79.5,0.05,377.63
+10810,2025-07-15,Central,Software,Antivirus,7,39,0,273
+10811,2025-04-02,East,Stationery,Notebook,3,4.5,0,13.5
+10812,2025-05-19,South,Software,"Office Suite",5,99,0.1,445.5
+10813,2025-01-26,South,Electronics,Monitor,8,219,0,1752
+10814,2025-12-27,South,Stationery,Planner,7,18,0.1,113.4
+10815,2025-03-16,East,Stationery,Planner,8,18,0.15,122.4
+10816,2025-02-28,West,Electronics,Webcam,3,45,0,135
+10817,2025-06-19,Central,Furniture,Desk,6,249,0,1494
+10818,2025-08-23,East,Furniture,Lamp,8,34.5,0,276
+10819,2025-06-05,West,Electronics,Webcam,7,45,0,315
+10820,2025-08-28,West,Software,"Office Suite",1,99,0.15,84.15
+10821,2025-05-19,South,Stationery,"Pen Set",1,12,0,12
+10822,2025-08-02,East,Electronics,Keyboard,5,79.5,0,397.5
+10823,2025-09-06,West,Electronics,Monitor,8,219,0,1752
+10824,2025-12-30,East,Software,Antivirus,5,39,0.1,175.5
+10825,2025-05-18,North,Furniture,Desk,6,$249.00,0.05,1419.3
+10826,2025-10-26,North,Stationery,"Pen Set",3,12,0.1,32.4
+10827,2025-03-06,South,Furniture,Desk,5,249,0,1245
+10828,2025-09-08,East,Electronics,Headphones,3,59.9,0,179.7
+10829,2025-04-12,West,Furniture,Chair,1,189,0,189
+10830,2025-03-17,South,Software,"Office Suite",6,99,0,594
+10831,2025-04-04,East,Furniture,Lamp,8,34.5,0,276
+10832,2025-08-16,East,Furniture,Lamp,3,34.5,0.05,98.33
+10833,2025-11-29,Central,Software,"Office Suite",8,99,0,792
+10834,2025-10-10,South,Electronics,Keyboard,1,79.5,0,79.5
+10835,2025-03-03,West,Electronics,Headphones,5,59.9,0,299.5
+10836,2025-05-27,East,Electronics,Headphones,6,59.9,0.1,323.46
+10837,2025-04-26,West,Stationery,Planner,6,18,0.05,102.6
+10838,2025-08-28,West,Software,"Office Suite",4,99,0.05,376.2
+10839,2025-11-17,North,Furniture,Chair,7,189,0,1323
+10840,2025-09-12,South,Stationery,"Pen Set",6,12,0,72
+10841,2025-02-22,Central,Stationery,Notebook,8,4.5,0.15,30.6
+10842,2025-04-02,Central,Stationery,Notebook,2,4.5,0,9
+10843,2025-07-19,East,Stationery,"Pen Set",1,12,0.05,11.4
+10844,2025-02-27,North,Electronics,Keyboard,1,79.5,0.05,75.53
+10845,2025-03-23,East,Furniture,Lamp,6,34.5,0,207
+10846,2025-08-07,West,Software,"Office Suite",8,99,0.1,712.8
+10847,2025-01-12,North,Software,Antivirus,8,39,0,312
+10848,2025-02-18,West,Electronics,Headphones,3,59.9,0.1,161.73
+10849,2025-12-02,West,Furniture,Chair,5,189,0.05,897.75
+10850,2025-07-13,West,Electronics,Keyboard,1,$79.50,0,79.5
+10851,2025-03-19,East,Software,Antivirus,5,39,0,195
+10852,2025-12-02,South,Furniture,Chair,3,189,0.15,481.95
+10853,2025-12-05,South,Stationery,Planner,7,18,0,126
+10854,2025-11-17,Central,Electronics,Headphones,4,59.9,0.15,203.66
+10855,2025-03-05,North,Software,Antivirus,1,39,0.15,33.15
+10856,2025-11-26,North,Software,Antivirus,3,39,0.15,99.45
+10857,2025-06-13,South,Electronics,Webcam,8,45,0,360
+10858,2025-02-20,South,Electronics,Keyboard,7,79.5,0.15,473.03
+10859,2025-01-16,North,Furniture,Lamp,4,34.5,0,138
+10860,2025-04-15,Central,Electronics,Headphones,2,59.9,0.1,107.82
+10861,2025-06-04,West,Stationery,Planner,8,18,0.1,129.6
+10862,2025-07-08,Central,Stationery,"Pen Set",8,12,0,96
+10863,2025-10-09,Central,Electronics,Keyboard,5,79.5,0,397.5
+10864,2025-05-28,Central,Software,"Office Suite",7,99,0.15,589.05
+10865,2025-02-26,North,Software,"Office Suite",4,99,0.15,336.6
+10866,2025-09-12,South,Software,"Office Suite",6,99,0,594
+10867,2025-12-05,North,Software,Antivirus,3,39,0,117
+10868,2025-10-31,South,Furniture,Chair,5,189,0.05,897.75
+10869,2025-03-20,Central,Furniture,Chair,5,189,0,945
+10870,2025-02-07,East,Furniture,Lamp,1,34.5,0,34.5
+10871,2025-04-30,Central,Stationery,Notebook,3,4.5,0,13.5
+10872,2025-11-17,East,Software,"Office Suite",4,99,0.15,336.6
+10873,2025-04-30,North,Software,"Office Suite",4,99,0.05,376.2
+10874,2025-08-20,East,Software,Antivirus,4,39,0.05,148.2
+10875,2025-02-19,Central,Software,"Office Suite",2,$99.00,0,198
+10876,2025-08-18,South,Electronics,Webcam,3,45,0,135
+10877,2025-06-13,West,Furniture,Lamp,6,34.5,0,207
+10878,2025-04-23,North,Electronics,Headphones,1,59.9,0,59.9
+10879,2025-01-11,Central,Software,Antivirus,6,39,0.15,198.9
+10880,2025-02-25,East,Stationery,"Pen Set",4,12,0.1,43.2
+10881,2025-10-12,Central,Stationery,"Pen Set",1,12,0.05,11.4
+10882,2025-11-11,East,Electronics,Keyboard,4,79.5,0.15,270.3
+10883,2025-11-17,West,Stationery,Notebook,8,4.5,0,36
+10884,2025-02-25,South,Furniture,Desk,4,249,0.1,896.4
+10885,2025-07-19,Central,Stationery,Planner,2,18,0,36
+10886,2025-11-02,South,Electronics,Keyboard,8,79.5,0.15,540.6
+10887,2025-11-24,Central,Stationery,Notebook,9,4.5,0.05,38.48
+10888,2025-09-09,North,Stationery,Notebook,4,4.5,0,18
+10889,2025-12-28,Central,Furniture,Lamp,2,34.5,0,69
+10890,2025-12-12,North,Electronics,Headphones,11,59.9,0.15,560.07
+10891,2025-12-19,South,Software,Antivirus,3,39,0,117
+10892,2025-10-11,Central,Furniture,Chair,6,189,0.05,1077.3
+10893,2025-10-26,South,Stationery,Planner,6,18,0.15,91.8
+10894,2025-07-04,Central,Furniture,Lamp,4,34.5,0,138
+10895,2025-04-29,North,Software,"Office Suite",1,99,0.15,84.15
+10896,2025-12-13,Central,Furniture,Desk,9,249,0,2241
+10897,2025-04-28,South,Electronics,Webcam,6,45,0.05,256.5
+10898,2025-02-09,South,Furniture,Chair,2,189,0.05,359.1
+10899,2025-06-22,West,Furniture,Desk,6,249,0.05,1419.3
+10900,2025-07-05,South,Software,Antivirus,3,$39.00,0,117
+10900,2025-07-05,South,Software,Antivirus,3,$39.00,0,117
+
+10901,2025-01-03,North,Software,Antivirus,5,39,0.05,185.25
+10902,2025-12-06,North,Software,"Office Suite",9,99,0.1,801.9
+10903,2025-08-17,South,Software,"Office Suite",8,99,0,792
+10904,2025-09-06,Central,Furniture,Lamp,4,34.5,0,138
+10905,2025-09-12,East,Furniture,Chair,7,189,0,1323
+10906,2025-08-23,Central,Furniture,Desk,6,249,0.05,1419.3
+10907,2025-03-06,West,Electronics,Keyboard,5,79.5,0.05,377.63
+10908,2025-11-15,West,Stationery,Planner,9,18,0.05,153.9
+10909,2025-09-30,West,Electronics,Webcam,8,45,0.15,306
+10910,2025-03-14,East,Stationery,Planner,1,18,0.1,16.2
+10911,2025-03-30,West,Stationery,Notebook,8,4.5,0.15,30.6
+10912,2025-11-03,Central,Furniture,Chair,2,189,0,378
+10913,2025-08-22,West,Software,"Office Suite",4,99,0,396
+10914,2025-02-15,South,Electronics,Monitor,2,219,0,438
+10915,2025-06-30,North,Stationery,Planner,8,18,0.1,129.6
+10916,2025-03-14,South,Stationery,Notebook,5,4.5,0,22.5
+10917,2025-11-29,West,Electronics,Webcam,5,45,0.1,202.5
+10918,2025-12-14,West,Stationery,"Pen Set",6,12,0,72
+10919,2025-06-06,South,Stationery,"Pen Set",3,12,0,36
+10920,2025-04-25,East,Furniture,Lamp,3,34.5,0.1,93.15
+10921,2025-01-01,North,Furniture,Chair,1,189,0,189
+10922,2025-11-12,Central,Electronics,Monitor,6,219,0,1314
+10923,2025-11-25,South,Furniture,Lamp,2,34.5,0.05,65.55
+10924,2025-01-01,East,Stationery,Planner,3,18,0.1,48.6
+10925,2025-07-04,North,Electronics,Webcam,1,$45.00,0,45
+10926,2025-08-28,North,Software,Antivirus,1,39,0,39
+10927,2025-08-02,West,Software,Antivirus,8,39,0,312
+10928,2025-06-18,West,Software,"Office Suite",3,99,0,297
+10929,2025-04-23,Central,Stationery,Notebook,7,4.5,0,31.5
+10930,2025-02-23,South,Electronics,Headphones,6,59.9,0.15,305.49
+10931,2025-03-31,East,Software,Antivirus,2,39,0,78
+10932,2025-02-12,North,Software,Antivirus,8,39,0,312
+10933,2025-10-06,West,Furniture,Chair,6,189,0.1,1020.6
+10934,2025-08-31,East,Furniture,Desk,3,249,0,747
+10935,2025-08-26,West,Stationery,"Pen Set",3,12,0,36
+10936,2025-05-03,West,Software,"Office Suite",5,99,0.05,470.25
+10937,2025-10-01,West,Software,Antivirus,2,39,0.1,70.2
+10938,2025-01-09,Central,Electronics,Monitor,4,219,0,876
+10939,2025-09-21,South,Stationery,Notebook,5,4.5,0.05,21.38
+10940,2025-01-16,South,Electronics,Headphones,4,59.9,0,239.6
+10941,2025-03-15,West,Electronics,Webcam,8,45,0,360
+10942,2025-08-14,East,Electronics,Headphones,4,59.9,0,239.6
+10943,2025-04-13,Central,Furniture,Desk,4,249,0.15,846.6
+10944,2025-03-22,East,Stationery,Notebook,4,4.5,0,18
+10945,2025-11-20,South,Electronics,Keyboard,3,79.5,0.15,202.73
+10946,2025-10-23,South,Electronics,Monitor,3,219,0,657
+10947,2025-09-14,South,Furniture,Lamp,3,34.5,0,103.5
+10948,2025-11-05,South,Stationery,Planner,8,18,0,144
+10949,2025-07-31,South,Software,Antivirus,8,39,0,312
+10950,2025-02-13,West,Furniture,Chair,8,$189.00,0.1,1360.8
+10951,2025-03-08,North,Furniture,Lamp,1,34.5,0,34.5
+10952,2025-09-09,East,Furniture,Lamp,1,34.5,0,34.5
+10953,2025-11-27,West,Stationery,Notebook,3,4.5,0.1,12.15
+10954,2025-10-01,South,Electronics,Keyboard,1,79.5,0.1,71.55
+10955,2025-03-10,North,Electronics,Keyboard,8,79.5,0,636
+10956,2025-04-16,East,Software,Antivirus,3,39,0,117
+10957,2025-07-19,Central,Stationery,"Pen Set",7,12,0,84
+10958,2025-12-11,West,Electronics,Webcam,3,45,0.1,121.5
+10959,2025-06-06,South,Furniture,Chair,4,189,0.05,718.2
+10960,2025-08-14,East,Electronics,Keyboard,1,79.5,0.05,75.53
+10961,2025-02-15,North,Electronics,Keyboard,8,79.5,0.1,572.4
+10962,2025-06-28,South,Furniture,Chair,4,189,0.05,718.2
+10963,2025-01-14,South,Software,"Office Suite",1,99,0,99
+10964,2025-07-23,Central,Stationery,Planner,6,18,0,108
+10965,2025-03-06,South,Furniture,Desk,7,249,0.05,1655.85
+10966,2025-12-15,South,Electronics,Keyboard,6,79.5,0,477
+10967,2025-08-29,East,Stationery,Planner,1,18,0.1,16.2
+10968,2025-10-31,East,Furniture,Desk,5,249,0.15,1058.25
+10969,2025-12-11,East,Stationery,Planner,6,18,0.15,91.8
+10970,2025-05-12,Central,Electronics,Monitor,7,219,0.05,1456.35
+10971,2025-06-30,South,Furniture,Desk,6,249,0,1494
+10972,2025-04-30,West,Software,Antivirus,6,39,0.05,222.3
+10973,2025-06-24,Central,Furniture,Desk,7,249,0.1,1568.7
+10974,2025-05-04,North,Software,"Office Suite",8,99,0.15,673.2
+10975,2025-06-22,East,Software,"Office Suite",5,$99.00,0,495
+10976,2025-12-12,East,Software,Antivirus,6,39,0,234
+10977,2025-05-27,North,Furniture,Lamp,6,34.5,0,207
+10978,2025-07-06,Central,Furniture,Chair,8,189,0,1512
+10979,2025-04-04,West,Electronics,Keyboard,2,79.5,0,159
+10980,2025-07-25,Central,Software,Antivirus,5,39,0.05,185.25
+10981,2025-10-04,Central,Stationery,Notebook,6,4.5,0,27
+10982,2025-08-27,South,Furniture,Desk,8,249,0,1992
+10983,2025-01-10,West,Furniture,Lamp,2,34.5,0,69
+10984,2025-01-25,West,Furniture,Chair,5,189,0.15,803.25
+10985,2025-04-17,Central,Furniture,Desk,5,249,0.15,1058.25
+10986,2025-08-16,Central,Electronics,Webcam,2,45,0.15,76.5
+10987,2025-02-12,Central,Stationery,"Pen Set",4,12,0.1,43.2
+10988,2025-09-17,West,Furniture,Desk,1,249,0,249
+10989,2025-09-28,Central,Software,"Office Suite",2,99,0.15,168.3
+10990,2025-06-16,East,Stationery,Notebook,7,4.5,0,31.5
+10991,2025-12-05,West,Furniture,Chair,4,189,0.1,680.4
+10992,2025-05-12,East,Stationery,"Pen Set",3,12,0.1,32.4
+10993,2025-07-04,West,Electronics,Webcam,6,45,0,270
+10994,2025-10-21,East,Stationery,Notebook,1,4.5,0,4.5
+10995,2025-01-30,West,Furniture,Desk,3,249,0.05,709.65
+10996,2025-08-26,North,Furniture,Lamp,4,34.5,0,138
+10997,2025-02-04,East,Electronics,Webcam,5,45,0,225
+10998,2025-06-26,Central,Stationery,Notebook,5,4.5,0.1,20.25
+10999,2025-01-28,South,Software,"Office Suite",6,99,0.1,534.6
+11000,2025-02-09,South,Electronics,Headphones,5,$59.90,0.05,284.53
+11001,2025-12-19,East,Electronics,Monitor,4,219,0,876
+11002,2025-12-21,East,Electronics,Webcam,5,45,0,225
+11003,2025-12-01,South,Furniture,Chair,4,189,0.05,718.2
+11004,2025-05-11,North,Stationery,"Pen Set",3,12,0,36
+11005,2025-12-13,South,Software,Antivirus,7,39,0.15,232.05
+11006,2025-10-06,East,Stationery,"Pen Set",3,12,0.15,30.6
+11007,2025-02-03,West,Stationery,Notebook,1,4.5,0.15,3.83
+11008,2025-01-25,East,Electronics,Monitor,7,219,0,1533
+11009,2025-03-28,Central,Stationery,"Pen Set",4,12,0,48
+11010,2025-04-11,Central,Electronics,Headphones,6,59.9,0.1,323.46
+11011,2025-10-21,West,Furniture,Chair,3,189,0.1,510.3
+11012,2025-11-22,South,Furniture,Lamp,4,34.5,0,138
+11013,2025-02-18,Central,Software,Antivirus,2,39,0.05,74.1
+11014,2025-11-18,West,Stationery,Planner,3,18,0,54
+11015,2025-04-19,East,Stationery,Planner,6,18,0,108
+11016,2025-05-09,West,Stationery,Notebook,8,4.5,0,36
+11017,2025-05-01,Central,Electronics,Headphones,5,59.9,0,299.5
+11018,2025-08-14,Central,Stationery,Notebook,4,4.5,0.15,15.3
+11019,2025-01-19,North,Electronics,Headphones,2,59.9,0.15,101.83
+11020,2025-09-16,North,Furniture,Chair,2,189,0,378
+11021,2025-04-24,North,Furniture,Lamp,8,34.5,0.05,262.2
+11022,2025-02-16,South,Stationery,Planner,7,18,0.15,107.1
+11023,2025-08-31,East,Stationery,"Pen Set",8,12,0.1,86.4
+11024,2025-01-24,West,Electronics,Monitor,6,219,0,1314
+11025,2025-08-02,West,Stationery,Notebook,8,$4.50,0.15,30.6
+11026,2025-07-01,North,Electronics,Keyboard,3,79.5,0.15,202.73
+11027,2025-04-12,South,Electronics,Headphones,6,59.9,0.15,305.49
+11028,2025-01-10,Central,Electronics,Headphones,1,59.9,0,59.9
+11029,2025-08-31,East,Furniture,Desk,3,249,0,747
+11030,2025-03-07,Central,Stationery,Notebook,4,4.5,0,18
+11031,2025-05-24,South,Software,"Office Suite",3,99,0.15,252.45
+11032,2025-04-17,Central,Electronics,Headphones,5,59.9,0,299.5
+11033,2025-02-11,East,Software,Antivirus,5,39,0,195
+11034,2025-08-16,East,Stationery,"Pen Set",5,12,0,60
+11035,2025-01-04,South,Electronics,Webcam,2,45,0,90
+11036,2025-04-13,South,Electronics,Headphones,5,59.9,0,299.5
+11037,2025-08-05,Central,Electronics,Keyboard,7,79.5,0,556.5
+11038,2025-08-12,South,Electronics,Webcam,7,45,0.1,283.5
+11039,2025-07-17,East,Software,Antivirus,6,39,0.1,210.6
+11040,2025-05-22,East,Electronics,Headphones,7,59.9,0,419.3
+11041,2025-05-23,North,Software,"Office Suite",4,99,0,396
+11042,2025-03-12,West,Electronics,Headphones,7,59.9,0.05,398.34
+11043,2025-04-14,East,Electronics,Webcam,4,45,0.15,153
+11044,2025-12-14,East,Furniture,Chair,7,189,0,1323
+11045,2025-05-07,Central,Furniture,Chair,6,189,0.15,963.9
+11046,2025-08-12,East,Software,Antivirus,4,39,0,156
+11047,2025-01-08,Central,Software,Antivirus,6,39,0.1,210.6
+11048,2025-04-21,West,Furniture,Desk,3,249,0.05,709.65
+11049,2025-05-21,North,Software,"Office Suite",8,99,0.1,712.8
+11050,2025-06-11,West,Stationery,Planner,6,$18.00,0,108
+11050,2025-06-11,West,Stationery,Planner,6,$18.00,0,108
+
+11051,2025-05-24,East,Furniture,Desk,7,249,0.05,1655.85
+11052,2025-12-24,West,Furniture,Lamp,4,34.5,0,138
+11053,2025-08-04,East,Electronics,Monitor,7,219,0.1,1379.7
+11054,2025-07-23,West,Electronics,Monitor,5,219,0,1095
+11055,2025-04-25,East,Software,"Office Suite",1,99,0,99
+11056,2025-07-04,East,Furniture,Chair,3,189,0,567
+11057,2025-10-25,West,Stationery,"Pen Set",1,12,0,12
+11058,2025-05-28,North,Stationery,Planner,3,18,0,54
+11059,2025-08-25,South,Electronics,Headphones,3,59.9,0.05,170.72
+11060,2025-01-02,West,Software,Antivirus,6,39,0.15,198.9
+11061,2025-04-28,North,Software,Antivirus,5,39,0,195
+11062,2025-11-07,Central,Electronics,Keyboard,5,79.5,0.1,357.75
+11063,2025-01-05,South,Furniture,Chair,3,189,0.1,510.3
+11064,2025-01-22,West,Electronics,Keyboard,3,79.5,0.1,214.65
+11065,2025-04-06,South,Furniture,Lamp,8,34.5,0.05,262.2
+11066,2025-05-26,Central,Software,"Office Suite",8,99,0,792
+11067,2025-05-10,North,Software,Antivirus,1,39,0,39
+11068,2025-12-16,East,Software,"Office Suite",1,99,0.1,89.1
+11069,2025-07-17,West,Electronics,Headphones,6,59.9,0.1,323.46
+11070,2025-03-19,Central,Electronics,Keyboard,2,79.5,0,159
+11071,2025-07-25,East,Stationery,Notebook,6,4.5,0.05,25.65
+11072,2025-06-17,East,Stationery,Notebook,4,4.5,0,18
+11073,2025-05-18,East,Stationery,Planner,7,18,0,126
+11074,2025-01-08,Central,Furniture,Desk,2,249,0.05,473.1
+11075,2025-08-20,East,Electronics,Monitor,7,$219.00,0.05,1456.35
+11076,2025-10-17,West,Software,Antivirus,8,39,0.1,280.8
+11077,2025-02-13,West,Electronics,Webcam,2,45,0.1,81
+11078,2025-10-06,West,Furniture,Lamp,8,34.5,0.05,262.2
+11079,2025-03-24,East,Stationery,"Pen Set",3,12,0,36
+11080,2025-06-15,North,Stationery,Planner,4,18,0,72
+11081,2025-04-24,South,Furniture,Lamp,2,34.5,0,69
+11082,2025-01-31,Central,Stationery,Planner,5,18,0,90
+11083,2025-09-30,South,Furniture,Lamp,5,34.5,0,172.5
+11084,2025-11-02,East,Software,"Office Suite",7,99,0,693
+11085,2025-11-19,East,Software,"Office Suite",6,99,0.1,534.6
+11086,2025-04-14,South,Furniture,Desk,6,249,0,1494
+11087,2025-01-05,East,Stationery,"Pen Set",8,12,0.1,86.4
+11088,2025-02-14,West,Furniture,Desk,3,249,0,747
+11089,2025-09-21,Central,Furniture,Desk,1,249,0.15,211.65
+11090,2025-06-06,East,Electronics,Keyboard,3,79.5,0,238.5
+11091,2025-11-19,Central,Electronics,Headphones,9,59.9,0,539.1
+11092,2025-08-05,West,Furniture,Lamp,5,34.5,0,172.5
+11093,2025-07-10,East,Furniture,Chair,7,189,0,1323
+11094,2025-03-17,North,Software,"Office Suite",7,99,0,693
+11095,2025-10-26,North,Software,"Office Suite",5,99,0.05,470.25
+11096,2025-02-03,Central,Software,"Office Suite",1,99,0.1,89.1
+11097,2025-11-19,Central,Furniture,Desk,7,249,0.05,1655.85
+11098,2025-04-19,North,Software,"Office Suite",6,99,0.15,504.9
+11099,2025-02-13,East,Electronics,Monitor,6,219,0,1314
+11100,2025-12-30,South,Stationery,"Pen Set",7,$12.00,0.15,71.4
+11101,2025-12-07,South,Furniture,Desk,4,249,0.1,896.4
+11102,2025-12-07,South,Furniture,Lamp,6,34.5,0.15,175.95
+11103,2025-12-31,South,Stationery,Planner,9,18,0,162
+11104,2025-08-29,West,Stationery,Notebook,7,4.5,0.1,28.35
+11105,2025-06-19,North,Electronics,Headphones,3,59.9,0,179.7
+11106,2025-10-15,Central,Electronics,Keyboard,6,79.5,0,477
+11107,2025-05-11,East,Software,"Office Suite",5,99,0,495
+11108,2025-06-12,North,Stationery,Notebook,8,4.5,0.15,30.6
+11109,2025-11-11,West,Software,"Office Suite",10,99,0,990
+11110,2025-09-11,West,Stationery,Planner,8,18,0.1,129.6
+11111,2025-02-27,Central,Furniture,Desk,1,249,0,249
+11112,2025-01-14,West,Stationery,"Pen Set",3,12,0,36
+11113,2025-05-06,East,Stationery,"Pen Set",4,12,0.15,40.8
+11114,2025-02-12,South,Software,Antivirus,6,39,0.15,198.9
+11115,2025-12-07,Central,Electronics,Keyboard,5,79.5,0,397.5
+11116,2025-05-31,West,Furniture,Lamp,6,34.5,0,207
+11117,2025-06-05,North,Furniture,Lamp,6,34.5,0,207
+11118,2025-07-31,East,Electronics,Webcam,3,45,0.1,121.5
+11119,2025-09-22,East,Software,Antivirus,3,39,0,117
+11120,2025-07-05,North,Stationery,Notebook,3,4.5,0.1,12.15
+11121,2025-12-23,East,Furniture,Desk,6,249,0,1494
+11122,2025-04-07,West,Software,Antivirus,7,39,0,273
+11123,2025-02-09,Central,Furniture,Lamp,7,34.5,0.1,217.35
+11124,2025-08-19,East,Furniture,Desk,4,249,0,996
+11125,2025-06-03,West,Stationery,Planner,3,$18.00,0,54
+11126,2025-10-26,East,Furniture,Lamp,6,34.5,0.05,196.65
+11127,2025-01-29,North,Software,"Office Suite",6,99,0,594
+11128,2025-08-30,Central,Electronics,Headphones,6,59.9,0.05,341.43
+11129,2025-07-15,East,Furniture,Lamp,8,34.5,0.05,262.2
+11130,2025-05-30,East,Furniture,Lamp,8,34.5,0,276
+11131,2025-11-26,West,Furniture,Chair,11,189,0.05,1975.05
+11132,2025-11-12,North,Furniture,Chair,6,189,0,1134
+11133,2025-09-26,North,Stationery,"Pen Set",8,12,0,96
+11134,2025-07-31,West,Software,"Office Suite",7,99,0,693
+11135,2025-12-14,West,Software,Antivirus,4,39,0,156
+11136,2025-10-04,West,Electronics,Monitor,7,219,0,1533
+11137,2025-03-13,Central,Furniture,Lamp,4,34.5,0,138
+11138,2025-09-03,North,Software,Antivirus,1,39,0.15,33.15
+11139,2025-02-19,West,Electronics,Keyboard,6,79.5,0.1,429.3
+11140,2025-04-05,Central,Stationery,Notebook,2,4.5,0,9
+11141,2025-01-15,East,Furniture,Desk,8,249,0.05,1892.4
+11142,2025-09-18,North,Stationery,"Pen Set",4,12,0,48
+11143,2025-05-02,Central,Electronics,Monitor,8,219,0.05,1664.4
+11144,2025-07-14,West,Stationery,"Pen Set",3,12,0,36
+11145,2025-03-30,Central,Electronics,Webcam,8,45,0.05,342
+11146,2025-12-03,Central,Software,Antivirus,4,39,0,156
+11147,2025-08-10,West,Electronics,Webcam,6,45,0,270
+11148,2025-03-29,West,Software,"Office Suite",7,99,0.05,658.35
+11149,2025-06-01,Central,Stationery,Planner,2,18,0.1,32.4
+11150,2025-07-30,West,Software,"Office Suite",8,$99.00,0.05,752.4
+11151,2025-11-07,West,Furniture,Lamp,9,34.5,0,310.5
+11152,2025-09-21,North,Software,"Office Suite",4,99,0.05,376.2
+11153,2025-07-15,Central,Electronics,Keyboard,7,79.5,0,556.5
+11154,2025-11-22,West,Stationery,Notebook,6,4.5,0,27
+11155,2025-01-07,East,Electronics,Headphones,8,59.9,0.15,407.32
+11156,2025-01-05,North,Software,Antivirus,7,39,0.05,259.35
+11157,2025-07-31,West,Stationery,"Pen Set",7,12,0,84
+11158,2025-10-08,South,Electronics,Monitor,4,219,0.15,744.6
+11159,2025-01-04,South,Furniture,Chair,8,189,0,1512
+11160,2025-11-19,North,Software,"Office Suite",5,99,0.15,420.75
+11161,2025-11-25,South,Software,"Office Suite",10,99,0,990
+11162,2025-07-21,South,Electronics,Monitor,6,219,0,1314
+11163,2025-06-27,Central,Electronics,Headphones,5,59.9,0.15,254.58
+11164,2025-06-18,North,Electronics,Monitor,2,219,0.05,416.1
+11165,2025-02-09,North,Software,"Office Suite",7,99,0,693
+11166,2025-03-27,West,Software,Antivirus,6,39,0.1,210.6
+11167,2025-09-26,West,Software,Antivirus,6,39,0,234
+11168,2025-08-15,North,Electronics,Webcam,2,45,0.15,76.5
+11169,2025-07-31,West,Electronics,Webcam,8,45,0.1,324
+11170,2025-03-08,East,Electronics,Webcam,6,45,0.15,229.5
+11171,2025-05-05,North,Stationery,"Pen Set",3,12,0.15,30.6
+11172,2025-10-14,Central,Stationery,Notebook,7,4.5,0.1,28.35
+11173,2025-11-19,East,Electronics,Keyboard,2,79.5,0,159
+11174,2025-12-23,Central,Software,Antivirus,10,39,0,390
+11175,2025-06-14,South,Stationery,"Pen Set",2,$12.00,0,24
+11176,2025-09-25,East,Electronics,Headphones,6,59.9,0,359.4
+11177,2025-02-17,East,Stationery,"Pen Set",1,12,0.15,10.2
+11178,2025-11-05,East,Furniture,Chair,6,189,0,1134
+11179,2025-11-14,South,Stationery,Planner,7,18,0,126
+11180,2025-05-07,East,Electronics,Monitor,1,219,0,219
+11181,2025-12-16,South,Furniture,Chair,2,189,0,378
+11182,2025-07-26,East,Electronics,Monitor,2,219,0.1,394.2
+11183,2025-06-14,Central,Furniture,Chair,3,189,0,567
+11184,2025-08-23,East,Software,Antivirus,1,39,0.05,37.05
+11185,2025-02-25,Central,Stationery,Planner,4,18,0.05,68.4
+11186,2025-02-28,South,Electronics,Keyboard,8,79.5,0.05,604.2
+11187,2025-06-25,Central,Electronics,Monitor,1,219,0.05,208.05
+11188,2025-04-25,South,Software,Antivirus,3,39,0.05,111.15
+11189,2025-09-17,East,Software,Antivirus,4,39,0,156
+11190,2025-11-13,Central,Electronics,Headphones,10,59.9,0.15,509.15
+11191,2025-11-21,South,Electronics,Keyboard,9,79.5,0.05,679.73
+11192,2025-12-01,East,Stationery,Planner,7,18,0.1,113.4
+11193,2025-06-15,Central,Electronics,Headphones,5,59.9,0.15,254.58
+11194,2025-03-03,West,Furniture,Desk,2,249,0.15,423.3
+11195,2025-03-11,East,Software,Antivirus,6,39,0.15,198.9
+11196,2025-11-15,South,Stationery,Planner,3,18,0,54
+11197,2025-02-12,West,Furniture,Lamp,8,34.5,0.1,248.4
+11198,2025-10-20,North,Stationery,Planner,6,18,0.1,97.2
+11199,2025-01-23,West,Software,"Office Suite",6,99,0,594
+11200,2025-09-25,Central,Software,"Office Suite",6,$99.00,0.05,564.3
+11200,2025-09-25,Central,Software,"Office Suite",6,$99.00,0.05,564.3
+
