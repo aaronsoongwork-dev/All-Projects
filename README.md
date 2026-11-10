@@ -17,14 +17,14 @@ A portfolio of my hackathon, datathon, and academic projects.
 - 🎭 **[Emotion Monitoring FYP](./fyp-emotion-monitoring)** — Real-time multimodal emotion detection
   >> Original repo: [freshflick/emotion_recognition_webapp](https://github.com/freshflick/emotion_recognition_webapp)
 
-- 🥗 **[Nutritrack](./Nutritrack)** — Android nutrition tracking app with Food Quality Scores and Gemini-powered tips, built with Kotlin and Jetpack Compose (Monash University)
+- 🥗 **[Nutritrack](https://github.com/aaronsoongwork-dev/Nutritrack)** — Android nutrition tracking app with Food Quality Scores and Gemini-powered tips, built with Kotlin and Jetpack Compose (Monash University)
 
-- 🎥 **[Movement Tracker](./Movement%20Tracker)** — Staff identification and tracking in overhead fisheye video using motion-based computer vision in Python
+- 🎥 **[Movement Tracker](https://github.com/aaronsoongwork-dev/movement-tracker)** — Staff identification and tracking in overhead fisheye video using motion-based computer vision in Python
 
-- 🦖 **[Dino Game (C)](./dino-game-C)** — Windows console endless runner with jumping, ducking and increasingly fast obstacles
+- 🦖 **[Dino Game (C)](https://github.com/aaronsoongwork-dev/dino-game-c)** — Windows console endless runner with jumping, ducking and increasingly fast obstacles
 
-- 📊 **[CSV Analytics Dashboard](./csv-analytics-dashboard)** — PHP and SQLite dashboard that cleans uploaded CSV files and explores their data
+- 📊 **[CSV Analytics Dashboard](https://github.com/aaronsoongwork-dev/csv-analytics-dashboard)** — PHP and SQLite dashboard that cleans uploaded CSV files and explores their data
 
-- 💼 **[Job Application Tracker](./job-application-tracker)** — PHP and SQLite app for tracking applications, interview stages, reminders and search analytics
+- 💼 **[Job Application Tracker](https://github.com/aaronsoongwork-dev/job-application-tracker)** — PHP and SQLite app for tracking applications, interview stages, reminders and search analytics
 
-- ✅ **[Task Manager API](./task-manager-api)** — PHP REST API and Kanban board with user accounts, roles and task permissions
+- ✅ **[Task Manager API](https://github.com/aaronsoongwork-dev/task-manager-api)** — PHP REST API and Kanban board with user accounts, roles and task permissions
