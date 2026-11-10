@@ -1,8 +1,0 @@
-/vendor/
-/storage/*
-!/storage/.gitkeep
-.phpunit.cache/
-.phpunit.result.cache
-.env
-.DS_Store
-.vscode/
