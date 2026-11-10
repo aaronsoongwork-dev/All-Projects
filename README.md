@@ -17,6 +17,14 @@ A portfolio of my hackathon, datathon, and academic projects.
 - 🎭 **[Emotion Monitoring FYP](./fyp-emotion-monitoring)** — Real-time multimodal emotion detection
   >> Original repo: [freshflick/emotion_recognition_webapp](https://github.com/freshflick/emotion_recognition_webapp)
 
-- 🥗 Nutritrack — Android nutrition tracking app with Food Quality Scores and Gemini-powered tips, built with Kotlin and Jetpack Compose (Monash University)
+- 🥗 **[Nutritrack](./Nutritrack)** — Android nutrition tracking app with Food Quality Scores and Gemini-powered tips, built with Kotlin and Jetpack Compose (Monash University)
 
-- 🎥 Movement Tracker — Staff identification and tracking in overhead fisheye video using motion-based computer vision in Python
+- 🎥 **[Movement Tracker](./Movement%20Tracker)** — Staff identification and tracking in overhead fisheye video using motion-based computer vision in Python
+
+- 🦖 **[Dino Game (C)](./dino-game-C)** — Windows console endless runner with jumping, ducking and increasingly fast obstacles
+
+- 📊 **[CSV Analytics Dashboard](./csv-analytics-dashboard)** — PHP and SQLite dashboard that cleans uploaded CSV files and explores their data
+
+- 💼 **[Job Application Tracker](./job-application-tracker)** — PHP and SQLite app for tracking applications, interview stages, reminders and search analytics
+
+- ✅ **[Task Manager API](./task-manager-api)** — PHP REST API and Kanban board with user accounts, roles and task permissions
