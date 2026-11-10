@@ -85,6 +85,4 @@ bin/           seed.php and send_reminders.php (CLI only)
 - Add an automated test suite (the logic in `Applications` and `Stats` is already separated from HTML, so it is easy to test).
 - Ideas: interview-prep notes per application, tags, calendar (.ics) export, charts of salary ranges.
 
-## Resume bullet
 
-> Built a multi-user PHP/SQLite job-search tracker with secure authentication, per-user data isolation, a status-history log and an analytics dashboard (response rate, funnel, time-in-stage), plus CSV export and a cron-driven email reminder script.
