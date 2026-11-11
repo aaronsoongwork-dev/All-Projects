@@ -2,6 +2,8 @@
 
 A portfolio of my hackathon, datathon, and academic projects.
 
+🌐 **[Interactive Portfolio Website](https://know-aaron-soong.vercel.app/)** — Explore my work in a 3D room.
+
 ## Projects
 
 - 🚢 **[ShipCheck](./shipcheck)** — AI shipping document verification platform (Averis x Monash Datathon 2025)
