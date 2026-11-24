@@ -1,0 +1,25 @@
+# core
+langchain>=1.0
+langchain-core
+langchain-community        # BM25Retriever, PyPDFLoader
+langchain-text-splitters
+langchain-chroma
+chromadb
+pypdf
+rank_bm25
+# local embeddings + cross-encoder reranker (free, no API key)
+langchain-google-genai
+langchain-huggingface
+sentence-transformers
+# pick ONE LLM provider (or ollama for fully local)
+langchain-anthropic
+# langchain-openai
+# langchain-ollama
+# api
+fastapi
+uvicorn[standard]
+python-multipart
+# dev
+pytest
+httpx
+reportlab
