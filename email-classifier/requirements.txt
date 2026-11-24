@@ -1,0 +1,10 @@
+# Core 
+scikit-learn>=1.3
+pydantic>=2.5
+python-dotenv>=1.0
+matplotlib>=3.7        # only for the confusion-matrix PNG; safe to remove
+pytest>=7.4
+
+# Real LLM providers: install ONE of these when you are ready (Stage 2)
+#   pip install anthropic      -> LLM_PROVIDER=anthropic
+#   pip install openai         -> LLM_PROVIDER=openai  (also used for Ollama / local models)

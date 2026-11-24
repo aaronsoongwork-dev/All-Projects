@@ -1,0 +1,9 @@
+Subject: Update on your application
+From: hr@nordlane.example
+
+Hi Aisyah,
+
+Thank you for interviewing with us. We regret to inform you that we will not be moving forward with your application for the Data Engineer role.
+
+Kind regards,
+Nordlane Recruiting

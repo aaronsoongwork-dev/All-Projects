@@ -1,0 +1,294 @@
+id,sender,subject,body,label
+t01,promo@free-prizes.example,"CONGRATULATIONS!!! You have WON a $1,000 gift card","Dear Winner,
+
+You have won a $1,000 Amazon gift card in our weekly draw! Claim your prize now before it expires: http://claim-gift-now.example/win?id=88231
+
+This offer is valid for 24 hours only. Act fast!
+
+To unsubscribe click here.",spam
+t02,hiring@wfh-income.example,"Work from home - earn $500 per day, no experience needed","Hello,
+
+We are hiring remote assistants. Earn $500 per day from your phone, just 2 hours daily. No interview, no experience needed! Reply with your WhatsApp number to start today.
+
+Limited slots.",spam
+t03,security@secure-bankalert.example,Action required: your account has been suspended,"Your online banking account has been suspended due to unusual activity. Verify your account within 12 hours to avoid permanent closure: http://secure-bankalert.example/verify
+
+Failure to verify will result in account termination.",spam
+t04,seo@rankfast.example,Quick question about your website,"Hi there,
+
+I was looking at your website and noticed it is not showing on page 1 of Google. We can fix that within 30 days or you pay nothing. Can I send you a free report?
+
+Kind regards,
+Daniel
+RankFast Digital",spam
+t05,invest@cryptoboost.example,Exclusive: 300% returns guaranteed with our crypto program,"Join 10,000 investors who turned $500 into $5,000 last month. Guaranteed 300% returns with zero risk. Limited seats this week.
+
+Start now: http://cryptoboost.example/join",spam
+t06,careers@global-hiring-desk.example,"Congratulations, you are hired!","Congratulations! Following your online profile, you have been selected as Data Entry Clerk at Horizon Global Services. Monthly salary RM 4,500. To receive your contract, please send a copy of your IC and a refundable processing fee of RM 200 via bank transfer.
+
+Regards,
+Mrs. Linda Tan
+HR Manager",spam
+t07,deals@learnfast-courses.example,Flash sale: 70% off all courses ends tonight,"<html><body><div style=""font-family:Arial""><h1>FLASH SALE</h1><p>Get <b>70% off</b> every course on LearnFast. Today only!</p><p><a href=""http://learnfast-courses.example/sale"">Shop now</a></p><p style=""font-size:10px"">You are receiving this email because you signed up at LearnFast. <a href=""http://learnfast-courses.example/unsub"">Unsubscribe</a></p></div></body></html>",spam
+t08,billing@docs-share-secure.example,Invoice #88314 overdue - open attachment,"Hello,
+
+Your invoice #88314 is overdue. Please open the attached file to view the payment details and settle immediately to avoid penalties.
+
+Download: http://docs-share-secure.example/inv88314.zip",spam
+t09,growth@followerz.example,"Get 10,000 followers for $19","Boost your LinkedIn and Instagram profile instantly! Buy 10,000 real followers for only $19. Satisfaction guaranteed or your money back. Order today and get 2,000 free bonus followers.
+
+Unsubscribe anytime.",spam
+t10,winner@lucky-lotto.example,Re: your inheritance,"Dear Sir/Madam,
+
+I am a barrister representing the estate of a late client who shares your surname. He left USD 8.5 million and you are the sole beneficiary. Kindly reply with your full name, address and phone number so we can proceed with the transfer.
+
+Barrister J. Okafor",spam
+t11,hr@brightwave-hr.example,Offer of employment - AI Engineer,"Dear Aisyah,
+
+Following your interviews with the team, we are delighted to offer you the position of AI Engineer at Brightwave Systems. The monthly salary is RM 8,500 with a 10% annual bonus. Your proposed start date is 6 January 2026. The full offer letter is attached.
+
+We were very impressed with you and hope you will join us.
+
+Best regards,
+Farah Rahman
+People & Culture
+Brightwave Systems
++60 3-1234 5678",job_offer
+t12,marcus@nordlane.example,Your RAG project,"Hi Aisyah,
+
+I came across your GitHub and your RAG project caught my eye. We are hiring a Machine Learning Engineer at Nordlane Analytics (hybrid, Kuala Lumpur). Would you be open to a quick chat this week?
+
+Cheers,
+Marcus
+Talent Partner, Nordlane Analytics",job_offer
+t13,recruit@talentbridge.example,Python dev role - KL - RM5-7k,"Hi! Role: Junior Python Developer. Location: KL. Salary: RM 5,000 - 7,000. Skills: Python, FastAPI, SQL. Interested? Reply YES and I will send the JD.",job_offer
+t14,people@kopilabs.example,We'd like to extend an offer,"Hi Aisyah,
+
+Congratulations! After a great final round, we would like to extend an offer for the Backend Engineer position at Kopi Labs. Compensation: RM 9,200 per month plus equity. Please have a look at the attached offer letter and let us know if you have any questions.
+
+Warm regards,
+Jun Wei",job_offer
+t15,contracts@stafflink.example,Contract opportunity: AI Automation Engineer (6 months),"Hello,
+
+Our client, a regional fintech, is looking for an AI Automation Engineer on a 6-month contract (extendable). Hybrid in Kuala Lumpur, day rate RM 650-800 depending on experience. Start: mid-January.
+
+If you are available and interested, please send your updated CV and expected rate.
+
+Thanks,
+Priya
+StaffLink Recruitment",job_offer
+t16,messages@jobsite.example,Rahul Menon sent you a message about a Data Engineer role,"<html><body><p>Hi Aisyah,</p><p>Rahul Menon, Talent Acquisition at Zenith Pay, thinks your profile is a great match for the <b>Data Engineer</b> role. Salary range: RM 9,000 - 12,000. Fully remote within Malaysia.</p><p><a href=""http://jobsite.example/m/123"">View message</a></p><hr><p style=""font-size:11px"">You received this email because you are a member of JobSite. <a href=""http://jobsite.example/unsub"">Unsubscribe</a> | Manage your notifications</p></body></html>",job_offer
+t17,iqbal@orchidlabs.example,We're hiring - thought of you,"Hey Aisyah,
+
+Our team at Orchid Labs is hiring a backend engineer (Python/FastAPI) and I immediately thought of you after your talk last month. Salary is competitive and we're fully remote. Let me know if you want me to refer you.
+
+Cheers,
+Iqbal",job_offer
+t18,hr@brightwave-hr.example,Your offer - please respond by 30 November,"Dear Aisyah,
+
+We are pleased to offer you the role of Data Scientist at Brightwave Systems, starting 2 February 2026 at RM 7,800 per month. Please review the attached offer letter, sign it and return it by 30 November 2025. If we do not hear from you by then, the offer will lapse.
+
+Best,
+HR Team",job_offer
+t19,exec@summitsearch.example,Senior AI Engineer - fintech - remote - USD 90-110k,"Hello Aisyah,
+
+I'm recruiting for a Series B fintech that needs a Senior AI Engineer to lead their LLM platform. Remote (APAC), USD 90,000-110,000 plus options. Your background in NLP looks like a strong fit.
+
+Open to hearing more? A 15-minute call would be enough.
+
+Best,
+Oliver Grant
+Summit Search Partners",job_offer
+t20,people@kopilabs.example,Following up on our call: the formal offer,"Hi Aisyah,
+
+As discussed on the phone this morning, I'm happy to confirm our offer of the Machine Learning Engineer position at Kopi Labs at RM 10,000 per month, starting 3 March. The written contract follows below.
+
+Welcome to the team!
+
+Jun Wei",job_offer
+t21,noreply@greenhouse.io,Next step: complete your coding assessment,"Hi Aisyah,
+
+Thank you for your interest in the AI Engineer role at Nordlane Analytics. As the next step, please complete our online coding assessment using the link below. The assessment takes about 90 minutes and must be completed within 5 days of this email.
+
+Start assessment: https://assess.example/n/8821
+
+Good luck!
+The Nordlane Recruiting Team",job_task
+t22,hr@brightwave-hr.example,Documents needed for your application,"Dear Aisyah,
+
+To proceed with your application, please submit the following documents by Friday: 1) your academic transcript, 2) a copy of your passport or IC, 3) two professional references. You can upload them through the candidate portal.
+
+Kind regards,
+HR Team",job_task
+t23,jun.wei@kopilabs.example,Please pick an interview time,"Hi Aisyah,
+
+We'd love to speak with you about the Backend Engineer role. Please select a time that works for you using the scheduling link below. Slots are available until Tuesday 3 December.
+
+https://cal.example/kopilabs/aisyah
+
+Thanks,
+Jun Wei, Kopi Labs
+
+Sent from my iPhone",job_task
+t24,sam@orchidlabs.example,Take-home assignment: RAG mini project,"Hi Aisyah,
+
+Please find your take-home assignment attached. Build a small document Q&A app (any stack) and send us a link to your GitHub repo within 72 hours. We are mainly interested in how you structure the code and how you evaluate the results.
+
+Best of luck,
+Sam
+Engineering, Orchid Labs",job_task
+t25,people@brightwave-hr.example,Background check: please complete the form,"Dear Candidate,
+
+As part of our hiring process, please complete the background check authorization form at the link below. We cannot proceed with your onboarding until this is done.
+
+https://verify.example/bg/55120
+
+Please complete the form within 3 business days.
+
+Regards,
+People Operations",job_task
+t26,noreply@greenhouse.io,Reminder: your application is incomplete,"<div><p>Hi Aisyah,</p><p>You started applying for <b>Machine Learning Engineer</b> at Zenith Pay but have not yet completed your application. Two sections are still missing: <i>Work history</i> and <i>Cover letter</i>.</p><p><a href=""https://zenith.example/apply/991"">Finish your application</a> before it closes on 15 December.</p></div>",job_task
+t27,meiling@zenithpay.example,Before your interview: send your portfolio,"Hi Aisyah,
+
+Ahead of Thursday's technical interview, please send us a link to your GitHub or portfolio, and one project you would like to walk us through.
+
+Thanks!
+Mei Ling
+Talent Acquisition",job_task
+t28,hr@brightwave-hr.example,Welcome aboard - paperwork before day one,"Hi Aisyah,
+
+Welcome to Brightwave! Before your first day on 6 January, please sign your employment contract and NDA, and complete the bank details and tax forms in the onboarding portal. Your laptop will be shipped once this is done.
+
+See you soon,
+Farah",job_task
+t29,daniel@orchidlabs.example,Final interview - your availability,"Hello Aisyah,
+
+We would like to schedule your final interview next week. Could you please confirm your availability for Tuesday or Wednesday afternoon by replying to this email?
+
+Best regards,
+Daniel Ong
+Orchid Labs",job_task
+t30,priya@stafflink.example,Pre-screening questions,"Hi Aisyah,
+
+Before we set up a call, please answer these three questions and reply by email: 1) What is your notice period? 2) What is your expected salary? 3) Are you comfortable with a hybrid setup in Kuala Lumpur?
+
+Thanks,
+Priya, StaffLink",job_task
+t31,noreply@greenhouse.io,We received your application - AI Engineer,"Hi Aisyah,
+
+Thank you for applying to the AI Engineer position at Nordlane Analytics. We have received your application and our team will review it carefully. If your profile matches what we are looking for, we will be in touch within two weeks.
+
+The Nordlane Recruiting Team",job_confirmation
+t32,recruiting@kopilabs.example,"Interview confirmed: Tuesday 3 December, 10:00","Hi Aisyah,
+
+This is to confirm your interview for the Backend Engineer role on Tuesday 3 December at 10:00 (MYT) via Zoom. The link is in the calendar invite. You will meet Jun Wei and Sam from the engineering team.
+
+See you then,
+Kopi Labs Recruiting",job_confirmation
+t33,recruiting@nordlane.example,Assessment submission received,"Hello Aisyah,
+
+We have received your coding assessment. Thank you for completing it. Our engineers will review your submission and we will update you within 7 days.
+
+Regards,
+Nordlane Recruiting",job_confirmation
+t34,hr@brightwave-hr.example,Thank you for accepting our offer,"Hi Aisyah,
+
+Thank you for signing and returning your offer letter. We are delighted that you have accepted the Data Scientist position and look forward to welcoming you on 2 February 2026. Your signed contract has been filed.
+
+Best wishes,
+HR Team, Brightwave Systems",job_confirmation
+t35,calendar@orchidlabs.example,Accepted: Technical interview - Aisyah / Orchid Labs,"Sam has accepted your invitation.
+
+Technical interview - Aisyah / Orchid Labs
+Thursday 5 December, 14:00 - 15:00 MYT
+Location: Google Meet
+
+This is an automated message from your calendar.",job_confirmation
+t36,noreply@zenithpay.example,Application received,"<html><body><table><tr><td><h2>Application received</h2><p>Hi Aisyah,</p><p>Thanks for applying to <b>Zenith Pay</b>. Your application for <b>Machine Learning Engineer</b> has been received.</p><p>You can check your application status anytime in your candidate dashboard.</p><hr><p style=""font-size:11px"">This message was sent automatically. Please do not reply. Unsubscribe from job alerts.</p></td></tr></table></body></html>",job_confirmation
+t37,hr@brightwave-hr.example,Your reference has been submitted,"Hello Aisyah,
+
+Just letting you know that Dr. Lim Wei Han has submitted your reference for the Data Scientist position. Thank you for arranging this - no further action is needed from you.
+
+HR Team
+Brightwave Systems",job_confirmation
+t38,meiling@zenithpay.example,We have everything we need,"Hi Aisyah,
+
+Thanks for sending over your documents. We've checked them and your file is now complete. Nothing else is needed on your side; we'll be in touch about next steps by the end of next week.
+
+Best,
+Mei Ling",job_confirmation
+t39,recruiting@kopilabs.example,Interview rescheduled - new time confirmed,"Hi Aisyah,
+
+No problem at all. Your interview has been moved to Thursday 5 December at 14:00 MYT. The Zoom link stays the same. A new calendar invite is on its way.
+
+Thanks for your flexibility,
+Kopi Labs Recruiting",job_confirmation
+t40,talent@zenithpay.example,Update on your application: under review,"Hello Aisyah,
+
+Your application for the Data Engineer role at Zenith Pay is currently under review by the hiring team. There is nothing you need to do right now. We will email you as soon as there is an update.
+
+The Zenith Pay Talent Team",job_confirmation
+t41,hr@brightwave-hr.example,Update on your application,"Dear Aisyah,
+
+Thank you for taking the time to interview with us. We regret to inform you that we have decided not to proceed with your application for the AI Engineer position. We wish you every success in your job search.
+
+Best regards,
+HR Team",job_rejection
+t42,jun.wei@kopilabs.example,Your interview with Kopi Labs,"Hi Aisyah,
+
+Thank you for speaking with us last week. After discussing with the team, we've decided to move forward with other candidates whose experience more closely matches what we need right now.
+
+We really enjoyed meeting you and wish you the very best.
+
+Jun Wei",job_rejection
+t43,talent@zenithpay.example,Your application to Zenith Pay,"Hi Aisyah,
+
+Thanks for your interest in Zenith Pay. After reviewing your profile we feel it isn't the right fit for the Data Engineer role at this time. We will keep your CV on file and reach out if a better match opens up.
+
+All the best,
+Zenith Pay Talent Team",job_rejection
+t44,recruiting@nordlane.example,Position update,"Hello Aisyah,
+
+We wanted to let you know that the Machine Learning Engineer position has been filled. We appreciate the time you invested in our process and encourage you to apply for future openings.
+
+Sincerely,
+Nordlane Recruiting",job_rejection
+t45,sam@orchidlabs.example,Feedback on your final interview,"Hi Aisyah,
+
+Thank you for the time you spent with us over the last few weeks. This was a close decision, but unfortunately we will not be offering you the role. The team felt you were strong on modelling, but we needed more production deployment experience. I'm happy to share more detailed feedback if useful.
+
+Kind regards,
+Sam
+Orchid Labs",job_rejection
+t46,noreply@greenhouse.io,Application update,"Hi Aisyah,
+
+Thank you for applying to Orchid Labs. Unfortunately, we won't be progressing your application for the Backend Engineer role. Please don't be discouraged; we receive many applications and only a few can move to the next stage.
+
+The Orchid Labs Team",job_rejection
+t47,marcus@nordlane.example,Re: Your application for ML Engineer,"Hi Aisyah,
+
+Thanks for your patience. Unfortunately the team has chosen another candidate for this position, so we can't take your application any further. Thank you again for your interest in Nordlane.
+
+Regards,
+Marcus
+
+On Mon, 18 Nov 2025 at 09:12, Aisyah Rahman <aisyah@example.com> wrote:
+> Hi Marcus,
+> Thank you for confirming that you received my application. I'm very excited about this role and would love to hear next steps.
+>
+> On Fri, 15 Nov 2025 at 16:40, Marcus <marcus@nordlane.example> wrote:
+>> Thank you for applying. We have received your application and will review it shortly.",job_rejection
+t48,daniel@orchidlabs.example,Regarding your application,"Dear Aisyah,
+
+Thank you so much for your interest in the Data Scientist role and for the effort you put into the take-home assignment. We were genuinely impressed by your thinking around evaluation. However, we received an exceptionally strong pool of applicants, and we've decided to continue with a small number of candidates whose backgrounds are closest to the role's requirements. This was not an easy decision.
+
+We'd love for you to apply again in the future.
+
+Warm regards,
+Daniel",job_rejection
+t49,talent@zenithpay.example,About the Data Engineer opening,"Hi Aisyah,
+
+Unfortunately we have closed this requisition and will not be hiring for the Data Engineer role after all, due to a change in business priorities. We're sorry about the inconvenience, and thank you for your time.
+
+Zenith Pay Talent Team",job_rejection
+t50,hr@brightwave-hr.example,Your application to Brightwave Systems,"<html><body><p>Dear Aisyah,</p><p>Thank you for your interest in Brightwave Systems. We regret to inform you that we will not be moving forward with your candidacy for the Junior Data Analyst position.</p><p>We appreciate your time and wish you success.</p><p>Best regards,<br>Farah Rahman<br>People &amp; Culture<br>Brightwave Systems</p><p style=""font-size:10px"">CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for the addressee and may contain confidential information. If you have received it in error, please delete it.</p></body></html>",job_rejection

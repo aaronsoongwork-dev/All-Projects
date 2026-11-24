@@ -1,0 +1,20 @@
+# secrets
+.env
+
+# REAL emails: never commit these
+data/feedback.csv
+data/private/
+data/inbox/
+outputs/*
+!outputs/.gitkeep
+
+# generated
+models/*
+!models/.gitkeep
+reports/*
+!reports/.gitkeep
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+*.pyc
